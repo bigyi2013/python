@@ -1,0 +1,810 @@
+posturl:https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19560891
+html:{"msg": [["topic", "\u4ea7\u4e1a", "19560891"], [[["topic", "\u4f53\u80b2\u4ea7\u4e1a", "19608504"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19608504"], []]]], [["topic", "\u6587\u5316\u4ea7\u4e1a", "19612883"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19612883"], []]]], [["topic", "\u7b2c\u4e00\u4ea7\u4e1a", "19836428"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19836428"], []]]], [["topic", "\u5de5\u4e1a", "19551603"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19551603"], []]]], [["topic", "\u7b2c\u4e09\u4ea7\u4e1a\uff08\u670d\u52a1\u4e1a\uff09", "19561087"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19561087"], []]]], [["topic", "\u4ea7\u4e1a\u89c4\u5212", "20011702"], []]]], "r": 0}
+*_*_*_*_*_*_*_*_*_
+getlist:{'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19561087', 'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19551603', 'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19836428', 'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19608504', 'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19612883'}
+*_*_*_*_*_*_*_*_*_*_
+posturl:https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19778298
+html:{"msg": [["topic", "\u300c\u5f62\u800c\u4e0a\u300d\u8bdd\u9898", "19778298"], [[["topic", "\u6b7b\u4ea1", "19555602"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19555602"], []]]], [["topic", "\u4eba", "19561047"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19561047"], []]]], [["topic", "\u9886\u57df", "19574302"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19574302"], []]]], [["topic", "\u6b63\u4e49", "19587736"], []], [["topic", "\u795e\u79d8", "19606286"], []], [["topic", "\u884c\u4e3a", "19573707"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19573707"], []]]], [["topic", "\u601d\u8003", "19551409"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19551409"], []]]], [["topic", "\u5173\u7cfb", "19559640"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19559640"], []]]], [["topic", "\u79e9\u5e8f", "19594058"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19594058"], []]]], [["topic", "\u771f\u7406", "19582856"], []], [["load", "\u52a0\u8f7d\u66f4\u591a", "19582856", "19778298"], []]]], "r": 0}
+*_*_*_*_*_*_*_*_*_
+getlist:{'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19551409', 'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19555602', 'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19561047', 'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19573707', 'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19559640', 'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19574302', 'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19594058'}
+*_*_*_*_*_*_*_*_*_*_
+posturl:https://www.zhihu.com/topic/19776749/organize/entire?child=19582856&parent=19778298
+html:{"msg": [["topic", "\u300c\u5f62\u800c\u4e0a\u300d\u8bdd\u9898", "19778298"], [[["topic", "\u7406\u8bba", "19552300"], []], [["topic", "\u601d\u60f3", "19560566"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19560566"], []]]], [["topic", "\u7cbe\u795e", "19566930"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19566930"], []]]], [["topic", "\u548c\u5e73", "19572177"], []], [["topic", "\u7a33\u5b9a", "19641078"], []], [["topic", "\u8d77\u6e90", "19553553"], []], [["topic", "\u73b0\u8c61", "19564032"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19564032"], []]]], [["topic", "\u6548\u7387", "19556677"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19556677"], []]]], [["topic", "\u6743", "20009363"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "20009363"], []]]], [["topic", "\u4ef7\u503c", "19561871"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19561871"], []]]], [["load", "\u52a0\u8f7d\u66f4\u591a", "19561871", "19778298"], []]]], "r": 0}
+*_*_*_*_*_*_*_*_*_
+getlist:{'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19566930', 'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=20009363', 'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19564032', 'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19561871', 'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19556677', 'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19560566'}
+*_*_*_*_*_*_*_*_*_*_
+posturl:https://www.zhihu.com/topic/19776749/organize/entire?child=19561871&parent=19778298
+html:{"msg": [["topic", "\u300c\u5f62\u800c\u4e0a\u300d\u8bdd\u9898", "19778298"], [[["topic", "\u89c2\u5ff5", "19571769"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19571769"], []]]], [["topic", "\u9053\u7406", "19585077"], []], [["topic", "\u5b58\u5728", "19643016"], []], [["topic", "\u9053", "19557039"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19557039"], []]]], [["topic", "\u601d\u7ef4", "19554285"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19554285"], []]]], [["topic", "\u610f\u4e49", "19563083"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19563083"], []]]], [["topic", "\u6743\u9650", "19617482"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19617482"], []]]], [["topic", "\u5206\u4eab", "19814766"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19814766"], []]]], [["topic", "\u6c38\u6052", "19629099"], []], [["topic", "\u9ed1\u6697", "19902305"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19902305"], []]]], [["load", "\u52a0\u8f7d\u66f4\u591a", "19902305", "19778298"], []]]], "r": 0}
+*_*_*_*_*_*_*_*_*_
+getlist:{'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19557039', 'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19571769', 'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19554285', 'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19617482', 'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19902305', 'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19814766', 'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19563083'}
+*_*_*_*_*_*_*_*_*_*_
+posturl:https://www.zhihu.com/topic/19776749/organize/entire?child=19902305&parent=19778298
+html:{"msg": [["topic", "\u300c\u5f62\u800c\u4e0a\u300d\u8bdd\u9898", "19778298"], [[["topic", "\u521b\u610f", "19556774"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19556774"], []]]], [["topic", "\u5883\u754c", "19575532"], []], [["topic", "\u865a\u65e0", "19636542"], []], [["topic", "\u62bd\u8c61", "19660166"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19660166"], []]]], [["topic", "\u90aa\u6076", "19729147"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19729147"], []]]], [["topic", "\u81ea\u7531", "19578134"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19578134"], []]]], [["topic", "\u4e16\u754c", "19566206"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19566206"], []]]], [["topic", "\u79d1\u5b66", "19612637"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19612637"], []]]], [["topic", "\u7ef4\u5ea6", "19567336"], []], [["topic", "\u7406\u6027", "19569579"], []], [["load", "\u52a0\u8f7d\u66f4\u591a", "19569579", "19778298"], []]]], "r": 0}
+*_*_*_*_*_*_*_*_*_
+getlist:{'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19729147', 'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19578134', 'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19556774', 'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19660166', 'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19566206', 'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19612637'}
+*_*_*_*_*_*_*_*_*_*_
+posturl:https://www.zhihu.com/topic/19776749/organize/entire?child=19569579&parent=19778298
+html:{"msg": [["topic", "\u300c\u5f62\u800c\u4e0a\u300d\u8bdd\u9898", "19778298"], [[["topic", "\u4fe1\u5ff5", "19584802"], []], [["topic", "\u903b\u8f91", "19556343"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19556343"], []]]], [["topic", "\u54f2\u5b66", "19551646"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19551646"], []]]], [["topic", "\u65f6\u95f4", "19553548"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19553548"], []]]]]], "r": 0}
+*_*_*_*_*_*_*_*_*_
+getlist:{'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19556343', 'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19553548', 'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19551646'}
+*_*_*_*_*_*_*_*_*_*_
+posturl:https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19778317
+html:{"msg": [["topic", "\u751f\u6d3b\u3001\u827a\u672f\u3001\u6587\u5316\u4e0e\u6d3b\u52a8", "19778317"], [[["topic", "\u8fd0\u52a8", "19552706"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19552706"], []]]], [["topic", "\u5a31\u4e50", "19553632"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19553632"], []]]], [["topic", "\u6d3b\u52a8", "19563502"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19563502"], []]]], [["topic", "\u4f11\u95f2", "19555427"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19555427"], []]]], [["topic", "\u5b97\u6559", "19570783"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19570783"], []]]], [["topic", "\u611f\u53d7", "19555984"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19555984"], []]]], [["topic", "\u5730\u7406", "19553622"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19553622"], []]]], [["topic", "\u751f\u6d3b", "19551147"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19551147"], []]]], [["topic", "\u804c\u4e1a\u53d1\u5c55", "19554825"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19554825"], []]]], [["topic", "\u611f\u60c5", "19554791"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19554791"], []]]], [["load", "\u52a0\u8f7d\u66f4\u591a", "19554791", "19778317"], []]]], "r": 0}
+*_*_*_*_*_*_*_*_*_
+getlist:{'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19553632', 'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19552706', 'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19563502', 'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19555984', 'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19555427', 'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19554825', 'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19553622', 'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19554791', 'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19551147', 'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19570783'}
+*_*_*_*_*_*_*_*_*_*_
+posturl:https://www.zhihu.com/topic/19776749/organize/entire?child=19554791&parent=19778317
+html:{"msg": [["topic", "\u751f\u6d3b\u3001\u827a\u672f\u3001\u6587\u5316\u4e0e\u6d3b\u52a8", "19778317"], [[["topic", "\u97f3\u4e50", "19550453"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19550453"], []]]], [["topic", "\u4fe1\u4ef0", "19556031"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19556031"], []]]], [["topic", "\u6536\u85cf", "19563902"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19563902"], []]]], [["topic", "\u8ba4\u77e5", "19573247"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19573247"], []]]], [["topic", "\u6280\u672f", "19550912"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19550912"], []]]], [["topic", "\u4f53\u9a8c", "19561382"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19561382"], []]]], [["topic", "\u827a\u672f", "19550434"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19550434"], []]]], [["topic", "\u6587\u5316", "19552266"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19552266"], []]]], [["topic", "\u5386\u53f2", "19551077"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19551077"], []]]], [["topic", "\u4ea4\u901a", "19557401"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19557401"], []]]], [["load", "\u52a0\u8f7d\u66f4\u591a", "19557401", "19778317"], []]]], "r": 0}
+*_*_*_*_*_*_*_*_*_
+getlist:{'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19573247', 'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19563902', 'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19556031', 'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19550912', 'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19557401', 'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19550434', 'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19552266', 'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19551077', 'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19561382', 'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19550453'}
+*_*_*_*_*_*_*_*_*_*_
+posturl:https://www.zhihu.com/topic/19776749/organize/entire?child=19557401&parent=19778317
+html:{"msg": [["topic", "\u751f\u6d3b\u3001\u827a\u672f\u3001\u6587\u5316\u4e0e\u6d3b\u52a8", "19778317"], [[["topic", "\u653f\u6cbb\u4e0e\u6cd5\u5f8b", "19793721"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19793721"], []]]]]], "r": 0}
+*_*_*_*_*_*_*_*_*_
+getlist:{'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19793721'}
+*_*_*_*_*_*_*_*_*_*_
+posturl:https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19778287
+html:{"msg": [["topic", "\u5b9e\u4f53", "19778287"], [[["topic", "\u5de5\u5177", "19553376"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19553376"], []]]], [["topic", "\u4e66\u7c4d", "19553713"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19553713"], []]]], [["topic", "\u5b87\u5b99", "19620787"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19620787"], []]]], [["topic", "\u7269\u8d28", "19612858"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19612858"], []]]], [["topic", "\u793e\u4f1a", "19566933"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19566933"], []]]], [["topic", "\u4eba", "19561047"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19561047"], []]]], [["topic", "\u4ea7\u54c1", "19552131"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19552131"], []]]], [["topic", "\u98df\u7269", "19552062"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19552062"], []]]], [["topic", "\u81ea\u7136", "19553627"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19553627"], []]]], [["topic", "\u7269\u54c1", "19878769"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19878769"], []]]], [["load", "\u52a0\u8f7d\u66f4\u591a", "19878769", "19778287"], []]]], "r": 0}
+*_*_*_*_*_*_*_*_*_
+getlist:{'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19553713', 'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19878769', 'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19552131', 'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19612858', 'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19553627', 'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19553376', 'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19566933', 'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19561047', 'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19620787', 'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19552062'}
+*_*_*_*_*_*_*_*_*_*_
+posturl:https://www.zhihu.com/topic/19776749/organize/entire?child=19878769&parent=19778287
+html:{"msg": [["topic", "\u5b9e\u4f53", "19778287"], [[["topic", "\u89d2\u8272", "19701679"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19701679"], []]]], [["topic", "\u751f\u6d3b\u7528\u54c1", "19647124"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19647124"], []]]], [["topic", "\u7ec4\u7ec7\u4e0e\u673a\u6784", "19565798"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19565798"], []]]], [["topic", "\u751f\u7269", "19812101"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19812101"], []]]], [["topic", "\u5546\u54c1", "19584724"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19584724"], []]]], [["topic", "\u5b9e\u7528\u5de5\u5177", "19960210"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19960210"], []]]]]], "r": 0}
+*_*_*_*_*_*_*_*_*_
+getlist:{'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19584724', 'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19812101', 'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19647124', 'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19565798', 'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19960210', 'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19701679'}
+*_*_*_*_*_*_*_*_*_*_
+posturl:https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19618774
+html:{"msg": [["topic", "\u5b66\u79d1", "19618774"], [[["topic", "\u793e\u4f1a\u79d1\u5b66", "19551971"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19551971"], []]]], [["topic", "\u81ea\u7136\u79d1\u5b66", "19553298"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19553298"], []]]], [["topic", "\u5f62\u5f0f\u79d1\u5b66", "19744646"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19744646"], []]]], [["topic", "\u4eba\u6587\u5b66\u79d1", "19649905"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19649905"], []]]], [["topic", "\u6280\u672f\u4e0e\u5e94\u7528\u79d1\u5b66", "19778273"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19778273"], []]]]]], "r": 0}
+*_*_*_*_*_*_*_*_*_
+getlist:{'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19649905', 'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19778273', 'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19551971', 'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19553298', 'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19744646'}
+*_*_*_*_*_*_*_*_*_*_
+posturl:https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19776751
+html:{"msg": [["topic", "\u300c\u672a\u5f52\u7c7b\u300d\u8bdd\u9898", "19776751"], [[["topic", "\u76d2\u996d", "19690251"], []], [["topic", "\u521b\u610f\u96c6\u8d44", "19653521"], []], [["topic", "\u7eff\u690d", "19998191"], []], [["topic", "solo", "19672863"], []], [["topic", "\u51fa\u6e38", "19639327"], []], [["topic", "\u5546\u52a1\u9009\u8d2d", "20049927"], []], [["topic", "\u65af\u514b\u91cc\u4e9a\u5bbe", "20049905"], []], [["topic", "\u4e2d\u690d\u7cfb", "20049901"], []], [["topic", "\u9f99\u86c7\u6f14\u4e49", "20049914"], []], [["load", "\u52a0\u8f7d\u66f4\u591a", "20049914", "19776751"], []]]], "r": 0}
+*_*_*_*_*_*_*_*_*_
+getlist:set()
+*_*_*_*_*_*_*_*_*_*_
+posturl:https://www.zhihu.com/topic/19776749/organize/entire?child=20049914&parent=19776751
+html:{"msg": [["topic", "\u300c\u672a\u5f52\u7c7b\u300d\u8bdd\u9898", "19776751"], [[["topic", "\u5403\u918b", "19804523"], []], [["topic", "\u6f14\u8bf4", "19878531"], []], [["topic", "\u5546\u5bb6", "19629695"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19629695"], []]]], [["topic", "\u6a21\u578b\u68c0\u6d4b", "20037185"], []], [["topic", "\u8bf4\u6cd5", "19822457"], []], [["topic", "\u4f4e\u4ef7\u7535\u5f71\u7968", "20039971"], []], [["topic", "\u751f\u7269\u53cd\u5e94\u5668", "20039963"], []], [["topic", "\u8f6c\u57fa\u56e0\u836f\u54c1", "20039961"], []], [["topic", "\u4eba\u4f53\u89e3\u5256", "20039964"], []], [["topic", "winchat", "20039957"], []], [["load", "\u52a0\u8f7d\u66f4\u591a", "20039957", "19776751"], []]]], "r": 0}
+*_*_*_*_*_*_*_*_*_
+getlist:{'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19629695'}
+*_*_*_*_*_*_*_*_*_*_
+posturl:https://www.zhihu.com/topic/19776749/organize/entire?child=20039957&parent=19776751
+html:{"msg": [["topic", "\u300c\u672a\u5f52\u7c7b\u300d\u8bdd\u9898", "19776751"], [[["topic", "\u5c0f\u672c\u6295\u8d44", "20039960"], []], [["topic", "major incident", "20039958"], []], [["topic", "\u5317\u8fb0\u533a", "20045843"], []], [["topic", "\u80a1\u707e", "20045842"], []], [["topic", "\u94a2\u7434\u6f14\u594f", "20045831"], []], [["topic", "syscall", "20045826"], []], [["topic", "\u6cb3\u5317\u533a", "20045852"], []], [["topic", "\u4e2d\u8001\u5e74\u8bdd\u9898", "19843421"], []], [["topic", "\u5317\u4eac\u5929\u4f7f\u5408\u5531\u56e2", "20042485"], []], [["topic", "\u6865\u5934\u5821\u5efa\u8bbe", "20042492"], []], [["load", "\u52a0\u8f7d\u66f4\u591a", "20042492", "19776751"], []]]], "r": 0}
+*_*_*_*_*_*_*_*_*_
+getlist:set()
+*_*_*_*_*_*_*_*_*_*_
+posturl:https://www.zhihu.com/topic/19776749/organize/entire?child=20042492&parent=19776751
+html:{"msg": [["topic", "\u300c\u672a\u5f52\u7c7b\u300d\u8bdd\u9898", "19776751"], [[["topic", "infosys", "19969472"], []], [["topic", "\u5b89\u5353\u624b\u673a\u6e38\u620f", "19615858"], []], [["topic", "\u56fd\u9645\u9752\u5e74\u65c5\u820d", "19843841"], []], [["topic", "\u5efa\u7b51\u989c\u8272", "19967464"], []], [["topic", "\u62d6\u62fd", "19579525"], []], [["topic", "\u7535\u89c6\u5267\u63d2\u66f2", "19880632"], []], [["topic", "\u5b89\u667a\u5e02\u573a", "19617522"], []], [["topic", "\u6dd8\u5b9d\u5e97\u94fa\u6444\u5f71", "19617502"], []], [["topic", "\u625b\u997f", "20053178"], []], [["topic", "\u9014\u98ce\u7f51", "20053181"], []], [["load", "\u52a0\u8f7d\u66f4\u591a", "20053181", "19776751"], []]]], "r": 0}
+*_*_*_*_*_*_*_*_*_
+getlist:set()
+*_*_*_*_*_*_*_*_*_*_
+posturl:https://www.zhihu.com/topic/19776749/organize/entire?child=20053181&parent=19776751
+html:{"msg": [["topic", "\u300c\u672a\u5f52\u7c7b\u300d\u8bdd\u9898", "19776751"], [[["topic", "\u6469\u65af\u7801", "20053171"], []], [["topic", "\u4eca\u665a80\u540e\u8131\u53e3\u79c0", "20053175"], []], [["topic", "\u53d7\u9650\u8bdd\u9898", "20053195"], []], [["topic", "\u534e\u9634\u8001\u8154", "20053184"], []], [["topic", "\u897f\u65b9\u97f3\u4e50", "20053189"], []], [["topic", "\u4e0d\u77e5\u9053\u5728\u95ee\u4ec0\u4e48", "20053200"], []], [["topic", "\u79c0\u8272", "20053202"], []], [["topic", "\u6e20\u9053256", "20052579"], []], [["topic", "\u780c\u5899", "20052571"], []], [["topic", "\u76f4\u64ad\u8425\u9500", "20052568"], []], [["load", "\u52a0\u8f7d\u66f4\u591a", "20052568", "19776751"], []]]], "r": 0}
+*_*_*_*_*_*_*_*_*_
+getlist:set()
+*_*_*_*_*_*_*_*_*_*_
+posturl:https://www.zhihu.com/topic/19776749/organize/entire?child=20052568&parent=19776751
+html:{"msg": [["topic", "\u300c\u672a\u5f52\u7c7b\u300d\u8bdd\u9898", "19776751"], [[["topic", "\u5927\u8fde\u5927\u5b66", "20052567"], []], [["topic", "\u7389\u6797\u72d7\u8089\u8282", "20052559"], []], [["topic", "\u76d7\u7248\u7528\u6237\u53d7\u5bb3\u8005", "20052554"], []], [["topic", "2016NBA\u9009\u79c0", "20052550"], []], [["topic", "\u8c46\u74e3\u5c0f\u4e8b", "20054737"], []], [["topic", "duo.js", "20054740"], []], [["topic", "\u4e13\u4fee", "20054729"], []], [["topic", "\u56fd\u9645\u6d77\u6d0b\u6cd5\u516c\u7ea6", "20054734"], []], [["topic", "\u5510\u52aa\u4e4c\u6881\u6d77", "20054715"], []], [["topic", "\u5916\u5174\u5b89\u5cad", "20054717"], []], [["load", "\u52a0\u8f7d\u66f4\u591a", "20054717", "19776751"], []]]], "r": 0}
+*_*_*_*_*_*_*_*_*_
+getlist:set()
+*_*_*_*_*_*_*_*_*_*_
+posturl:https://www.zhihu.com/topic/19776749/organize/entire?child=20054717&parent=19776751
+html:{"msg": [["topic", "\u300c\u672a\u5f52\u7c7b\u300d\u8bdd\u9898", "19776751"], [[["topic", "\u518d\u7248", "19655562"], []], [["topic", "\u751f\u6d3b\u7684\u611f\u609f", "19849033"], []], [["topic", "\u51ac\u5b63\u5965\u8fd0\u4f1a", "19941902"], []], [["topic", "\u8de8\u56fd\u6d17\u811a", "20017800"], []], [["topic", "\u7f51\u8d44\u8fd0\u4f5c", "19966496"], []], [["topic", "\u624b\u673a\u57fa\u7ad9", "19895461"], []], [["topic", "\u57fa\u4e8e\u65f6\u5e8f\u80cc\u666f\u4e0b\u7684\u4eba\u751f\u56de\u6d4b\u62a5\u544a", "20055408"], []], [["topic", "\u6ce8\u518c\u8d26\u6237", "20055414"], []], [["topic", "ustwo", "20055415"], []], [["topic", "\u53d1\u5c0f", "20055405"], []], [["load", "\u52a0\u8f7d\u66f4\u591a", "20055405", "19776751"], []]]], "r": 0}
+*_*_*_*_*_*_*_*_*_
+getlist:set()
+*_*_*_*_*_*_*_*_*_*_
+posturl:https://www.zhihu.com/topic/19776749/organize/entire?child=20055405&parent=19776751
+html:{"msg": [["topic", "\u300c\u672a\u5f52\u7c7b\u300d\u8bdd\u9898", "19776751"], [[["topic", "\u64ae\u5408\u5a5a\u59fb", "20055420"], []], [["topic", "\u62fe\u97f3\u5668", "19665657"], []], [["topic", "\u6570\u636e\u5171\u4eab", "20020476"], []], [["topic", "\u56fd\u738b\u7684\u4eba\u9a6c", "20059349"], []], [["topic", "\u5ba2\u6d41\u5206\u6790", "20059340"], []], [["topic", "\u793e\u4f1a\u515a", "20059346"], []], [["topic", "\u8d24\u8005\u4e4b\u7231\uff08\u8ce2\u8005\u306e\u611b\uff09", "20059343"], []], [["topic", "\u6c34\u751f\u6001", "20059328"], []], [["topic", "RPG maker", "20059326"], []], [["topic", "\u8c03\u97f3", "19805574"], []], [["load", "\u52a0\u8f7d\u66f4\u591a", "19805574", "19776751"], []]]], "r": 0}
+*_*_*_*_*_*_*_*_*_
+getlist:set()
+*_*_*_*_*_*_*_*_*_*_
+posturl:https://www.zhihu.com/topic/19776749/organize/entire?child=19805574&parent=19776751
+html:{"msg": [["topic", "\u300c\u672a\u5f52\u7c7b\u300d\u8bdd\u9898", "19776751"], [[["topic", "\u5200\u5251 OL", "19682582"], []], [["topic", "\u6469\u65c5", "19813481"], []], [["topic", "\u5c97\u4f4d", "19606400"], []], [["topic", "\u65b0\u4e16\u7eaa\u97f3\u4e50", "19799846"], []], [["topic", "\u5723\u8bde\u524d\u591c", "20035321"], []], [["topic", "Pair", "19684599"], []], [["topic", "\u5bff\u9669", "19831685"], []], [["topic", "cowon", "19828503"], []], [["topic", "\u62c6\u4e66\u5e2e", "20016237"], []], [["topic", "\u81ea\u5632\u7cbe\u795e", "19797791"], []], [["load", "\u52a0\u8f7d\u66f4\u591a", "19797791", "19776751"], []]]], "r": 0}
+*_*_*_*_*_*_*_*_*_
+getlist:set()
+*_*_*_*_*_*_*_*_*_*_
+posturl:https://www.zhihu.com/topic/19776749/organize/entire?child=19797791&parent=19776751
+html:{"msg": [["topic", "\u300c\u672a\u5f52\u7c7b\u300d\u8bdd\u9898", "19776751"], [[["topic", "\u56fd\u7535\u6295", "20018448"], []], [["topic", "\u793e\u4f1a\u5b66\u751f", "20010307"], []], [["topic", "\u9884\u4ed8\u5361", "19758864"], []], [["topic", "\u8212\u4f2f\u4e50", "20007638"], []], [["topic", "\u795e\u7ecf\u8d28", "19666864"], []], [["topic", "\u7f51\u7edc\u521b\u4e16\u7eaa", "19811361"], []], [["topic", "\u5185\u5e55", "19591294"], []], [["topic", "\u8ba4\u77e5\u76c8\u4f59", "19679907"], []], [["topic", "\u76d7\u7a83", "19591296"], []], [["topic", "\u624b\u673a\u5730\u56fe", "19598216"], []], [["load", "\u52a0\u8f7d\u66f4\u591a", "19598216", "19776751"], []]]], "r": 0}
+*_*_*_*_*_*_*_*_*_
+getlist:set()
+*_*_*_*_*_*_*_*_*_*_
+posturl:https://www.zhihu.com/topic/19776749/organize/entire?child=19598216&parent=19776751
+html:{"msg": [["topic", "\u300c\u672a\u5f52\u7c7b\u300d\u8bdd\u9898", "19776751"], [[["topic", "\u6d17\u4e1c\u897f", "20045387"], []], [["topic", "Window", "19781727"], []], [["topic", "\u7b54\u7591\u89e3\u60d1", "19893000"], []], [["topic", "Mircosoft", "19602124"], []], [["topic", "\u6027\u53d8\u6001", "19680887"], []], [["topic", "\u5c0f\u718a\u5f71\u89c6", "19730505"], []], [["topic", "\u7ad9\u7fa4", "19608794"], []], [["topic", "\u97e9\u5a31", "19916673"], []], [["topic", "SEO \u51fa\u8def", "19612652"], []], [["topic", "\u53d1\u884c\u6e20\u9053", "19612661"], []], [["load", "\u52a0\u8f7d\u66f4\u591a", "19612661", "19776751"], []]]], "r": 0}
+*_*_*_*_*_*_*_*_*_
+getlist:set()
+*_*_*_*_*_*_*_*_*_*_
+posturl:https://www.zhihu.com/topic/19776749/organize/entire?child=19612661&parent=19776751
+html:{"msg": [["topic", "\u300c\u672a\u5f52\u7c7b\u300d\u8bdd\u9898", "19776751"], [[["topic", "Design", "19612645"], []], [["topic", "\u6652\u7c73\u82b1", "19612648"], []], [["topic", "\u8fea\u9a6c\u5229\u4e9a", "20006866"], []], [["topic", "\u5f3a\u8005", "19989233"], []], [["topic", "\u6280\u672f\u8bba\u575b", "19571053"], []], [["topic", "\u7cbe\u795e\u6b8b\u75be", "20028902"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "20028902"], []]]], [["topic", "\u767e\u5c81", "20043550"], []], [["topic", "\u90a6\u5c3c\u5154", "20043554"], []], [["topic", "\u5bcc\u91ce\u7531\u60a0\u5b63", "20043572"], []], [["topic", "\u65e0\u6881\u6bbf", "20028894"], []], [["load", "\u52a0\u8f7d\u66f4\u591a", "20028894", "19776751"], []]]], "r": 0}
+*_*_*_*_*_*_*_*_*_
+getlist:{'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=20028902'}
+*_*_*_*_*_*_*_*_*_*_
+posturl:https://www.zhihu.com/topic/19776749/organize/entire?child=20028894&parent=19776751
+html:{"msg": [["topic", "\u300c\u672a\u5f52\u7c7b\u300d\u8bdd\u9898", "19776751"], [[["topic", "\u94b1\u591a\u591a", "20043566"], []], [["topic", "\u5927\u4fdd\u9556", "20043582"], []], [["topic", "\u6587\u7ae0\u4f1a", "20043583"], []], [["topic", "adaptive control", "20031173"], []], [["topic", "\u63a7\u5236\u5668\u8bbe\u8ba1", "20031169"], []], [["topic", "LTC", "19842393"], []], [["topic", "\u4e2d\u592e\u7f8e\u9662", "19842394"], []], [["topic", "\u708e\u6027\u4e18", "20031162"], []], [["topic", "sqlserver", "19694382"], []], [["topic", "\u6297\u84dd\u5149", "20031177"], []], [["load", "\u52a0\u8f7d\u66f4\u591a", "20031177", "19776751"], []]]], "r": 0}
+*_*_*_*_*_*_*_*_*_
+getlist:set()
+*_*_*_*_*_*_*_*_*_*_
+posturl:https://www.zhihu.com/topic/19776749/organize/entire?child=20031177&parent=19776751
+html:{"msg": [["topic", "\u300c\u672a\u5f52\u7c7b\u300d\u8bdd\u9898", "19776751"], [[["topic", "\u7f51\u70b9", "19574027"], []], [["topic", "\u5728\u7ebf\u5e7f\u64ad", "19577824"], []], [["topic", "\u533a\u53f7", "19577835"], []], [["topic", "\u901a\u8bdd", "19577833"], []], [["topic", "\u4e1c\u65b9\u7279\u9171", "19911351"], []], [["topic", "\u65c5\u884c\u8005", "19676414"], []], [["topic", "\u6c34\u6e90", "19600835"], []], [["topic", "\u653f\u6cbb\u8bfe", "19665877"], []], [["topic", "\u65c5\u6e38\u7eaa\u5ff5\u54c1", "19789914"], []], [["topic", "\u6cd5\u4eba\u4ee3\u8868", "19789901"], []], [["load", "\u52a0\u8f7d\u66f4\u591a", "19789901", "19776751"], []]]], "r": 0}
+*_*_*_*_*_*_*_*_*_
+getlist:set()
+*_*_*_*_*_*_*_*_*_*_
+posturl:https://www.zhihu.com/topic/19776749/organize/entire?child=19789901&parent=19776751
+html:{"msg": [["topic", "\u300c\u672a\u5f52\u7c7b\u300d\u8bdd\u9898", "19776751"], [[["topic", "\u6d88\u97f3\u5668", "19676431"], []], [["topic", "\u522e\u75e7", "19586856"], []], [["topic", "\u98df\u7269\u52a0\u70ed", "19814061"], []], [["topic", "\u795e\u7ea7\u63d0\u95ee", "20046700"], []], [["topic", "\u8346\u95e8\u9a6c\u62c9\u677e", "20046698"], []], [["topic", "Apache license", "20046692"], []], [["topic", "\u5feb\u9012\u5c0f\u54e5\u88ab\u6253", "20046697"], []], [["topic", "\u7687\u4eb2\u56fd\u621a", "20046696"], []], [["topic", "\u53f0\u6e7e\u8bc8\u9a97", "20046681"], []], [["topic", "\u4e09\u7687\u4e94\u5e1d", "20046688"], []], [["load", "\u52a0\u8f7d\u66f4\u591a", "20046688", "19776751"], []]]], "r": 0}
+*_*_*_*_*_*_*_*_*_
+getlist:set()
+*_*_*_*_*_*_*_*_*_*_
+posturl:https://www.zhihu.com/topic/19776749/organize/entire?child=20046688&parent=19776751
+html:{"msg": [["topic", "\u300c\u672a\u5f52\u7c7b\u300d\u8bdd\u9898", "19776751"], [[["topic", "\u5c27\u821c\u79b9", "20046686"], []], [["topic", "\u5b63\u5b50\u5e7f\u573a", "20000661"], []], [["topic", "\u7f51\u4e0a\u62a5\u540d", "20000656"], []], [["topic", "\u7ebf\u4e0a\u62a5\u540d", "20000665"], []], [["topic", "\u7f51\u9875\u4f18\u5316", "19581824"], []], [["topic", "\u4f01\u4e1a\u73af\u5883", "20000653"], []], [["topic", "Xcode Instruments", "20000651"], []], [["topic", "\u9ad8\u624b", "19581808"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19581808"], []]]], [["topic", "\u6743\u529b\u6597\u4e89", "19739587"], []], [["topic", "\u7535\u8111\u5e97", "19970219"], []], [["load", "\u52a0\u8f7d\u66f4\u591a", "19970219", "19776751"], []]]], "r": 0}
+*_*_*_*_*_*_*_*_*_
+getlist:{'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19581808'}
+*_*_*_*_*_*_*_*_*_*_
+posturl:https://www.zhihu.com/topic/19776749/organize/entire?child=19970219&parent=19776751
+html:{"msg": [["topic", "\u300c\u672a\u5f52\u7c7b\u300d\u8bdd\u9898", "19776751"], [[["topic", "\u4eba\u683c\u675f\u7f1a", "19970218"], []], [["topic", "\u5ca9\u68c9\u677f", "19970233"], []], [["topic", "\u5168\u65e5\u5236\u4e13\u79d1", "19970238"], []], [["topic", "\u6c89\u6eba", "19970223"], []], [["topic", "\u6c34\u6c9f\u76d6", "19970228"], []], [["topic", "\u7535\u4fe1\u7f51\u7edc\u6240\u4f20\u8f93\u4fe1\u606f\u7684\u5185\u5bb9", "19970242"], []], [["topic", "\u7f51\u7ad9\u7f8e\u5de5", "19738162"], []], [["topic", "\u7ed8\u753b\u672c", "19834720"], []], [["topic", "\u6539\u7f16\u7535\u5f71", "20023931"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "20023931"], []]]], [["topic", "\u90e8\u957f", "19755662"], []], [["load", "\u52a0\u8f7d\u66f4\u591a", "19755662", "19776751"], []]]], "r": 0}
+*_*_*_*_*_*_*_*_*_
+getlist:{'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=20023931'}
+*_*_*_*_*_*_*_*_*_*_
+posturl:https://www.zhihu.com/topic/19776749/organize/entire?child=19755662&parent=19776751
+html:{"msg": [["topic", "\u300c\u672a\u5f52\u7c7b\u300d\u8bdd\u9898", "19776751"], [[["topic", "\u5fc3\u91cc\u6d3b\u52a8", "20020663"], []], [["topic", "\u96e8\u6e2f\u57fa\u9686", "20020644"], []], [["topic", "\u9e70\u773c", "19999135"], []], [["topic", "\u4e2a\u4eba\u4ee3\u7f34", "19999139"], []], [["topic", "\u5fae\u4fe1\u5b9d", "19999144"], []], [["topic", "\u51b7\u67dc", "19999152"], []], [["topic", "sleep", "19711716"], []], [["topic", "\u987a\u4e30O2O", "19999159"], []], [["topic", "\u5851\u7f8e\u6781", "19999157"], []], [["topic", "\u6298\u5c04", "19623693"], []], [["load", "\u52a0\u8f7d\u66f4\u591a", "19623693", "19776751"], []]]], "r": 0}
+*_*_*_*_*_*_*_*_*_
+getlist:set()
+*_*_*_*_*_*_*_*_*_*_
+posturl:https://www.zhihu.com/topic/19776749/organize/entire?child=19623693&parent=19776751
+html:{"msg": [["topic", "\u300c\u672a\u5f52\u7c7b\u300d\u8bdd\u9898", "19776751"], [[["topic", "\u9f13\u66f2", "20051315"], []], [["topic", "\u505c\u7535", "19635138"], []], [["topic", "\u8364\u83dc", "20051310"], []], [["topic", "\u91ce\u751f\u52a8\u7269\u4fdd\u62a4", "20051305"], []], [["topic", "55\u5e74\u4f53\u5236", "20051297"], []], [["topic", "\u6b63\u65b9\u6559\u52a1\u7cfb\u7edf", "20051296"], []], [["topic", "\u7325\u7410\u7537", "19635113"], []], [["topic", "\u4ea7\u54c1\u6587\u6863", "19635110"], []], [["topic", "\u5de5\u5b66\u574a", "19635129"], []], [["topic", "\u7236\u6bcd\u540c\u4f4f", "20051321"], []], [["load", "\u52a0\u8f7d\u66f4\u591a", "20051321", "19776751"], []]]], "r": 0}
+*_*_*_*_*_*_*_*_*_
+getlist:set()
+*_*_*_*_*_*_*_*_*_*_
+posturl:https://www.zhihu.com/topic/19776749/organize/entire?child=20051321&parent=19776751
+html:{"msg": [["topic", "\u300c\u672a\u5f52\u7c7b\u300d\u8bdd\u9898", "19776751"], [[["topic", "\u6559\u80b2\u6c34\u5e73", "20051319"], []], [["topic", "\u65e5\u5e38\u62a4\u7406", "19922410"], []], [["topic", "\u7535\u74f6", "19652919"], []], [["topic", "\u4f11\u95f2\u886c\u886b", "19889221"], []], [["topic", "\u6cdb\u751f\u7269\u4fe1\u606f", "19655057"], []], [["topic", "\u68a8\u82b1\u516c\u793e", "20038691"], []], [["topic", "YYP", "20060004"], []], [["topic", "\u7ae5\u8d85\u8bc8\u9a97", "20038676"], []], [["topic", "\u767d\u82bd\u5947\u5170", "20038685"], []], [["topic", "\u4e66\u53cb", "20038688"], []], [["load", "\u52a0\u8f7d\u66f4\u591a", "20038688", "19776751"], []]]], "r": 0}
+*_*_*_*_*_*_*_*_*_
+getlist:set()
+*_*_*_*_*_*_*_*_*_*_
+posturl:https://www.zhihu.com/topic/19776749/organize/entire?child=20038688&parent=19776751
+html:{"msg": [["topic", "\u300c\u672a\u5f52\u7c7b\u300d\u8bdd\u9898", "19776751"], [[["topic", "\u6d17\u8111\u672f", "20038675"], []], [["topic", "\u89e3\u9898\u601d\u8def", "19819722"], []], [["topic", "\u7a74\u9053", "19819713"], []], [["topic", "DNS \u89e3\u6790", "19819717"], []], [["topic", "\u7ec5\u58eb", "19621151"], []], [["topic", "\u8bb0\u5e10", "19621136"], []], [["topic", "\u5e94\u5bf9\u653b\u51fb", "19621141"], []], [["topic", "\u9500\u552e\u90e8", "19727368"], []], [["topic", "\u74f6\u76d6", "19630988"], []], [["topic", "\u56e2\u8d2d\u7ba1\u7406", "19630982"], []], [["load", "\u52a0\u8f7d\u66f4\u591a", "19630982", "19776751"], []]]], "r": 0}
+*_*_*_*_*_*_*_*_*_
+getlist:set()
+*_*_*_*_*_*_*_*_*_*_
+posturl:https://www.zhihu.com/topic/19776749/organize/entire?child=19630982&parent=19776751
+html:{"msg": [["topic", "\u300c\u672a\u5f52\u7c7b\u300d\u8bdd\u9898", "19776751"], [[["topic", "ER\u56fe", "19630983"], []], [["topic", "\u6280\u672f\u5165\u80a1", "19812500"], []], [["topic", "\u9646\u5146\u79a7", "19820324"], []], [["topic", "\u6279\u53d1\u5e02\u573a", "19820319"], []], [["topic", "\u5e27\u6570", "19770476"], []], [["topic", "\u5de5\u7b7e", "20040481"], []], [["topic", "\u6570\u7535", "20040483"], []], [["topic", "\u949b\u767d\u7c89", "19771799"], []], [["topic", "\u4e9e\u6d32", "20040499"], []], [["topic", "\u684c\u9762\u97f3\u54cd", "19647780"], []], [["load", "\u52a0\u8f7d\u66f4\u591a", "19647780", "19776751"], []]]], "r": 0}
+*_*_*_*_*_*_*_*_*_
+getlist:set()
+*_*_*_*_*_*_*_*_*_*_
+posturl:https://www.zhihu.com/topic/19776749/organize/entire?child=19647780&parent=19776751
+html:{"msg": [["topic", "\u300c\u672a\u5f52\u7c7b\u300d\u8bdd\u9898", "19776751"], [[["topic", "\u5b89\u5353\u4e50\u56ed", "19647789"], []], [["topic", "\u89c6\u89c9\u9519\u8bef", "19647797"], []], [["topic", "\u9a6c\u5f69\u4e91", "20042391"], []], [["topic", "SNH4", "20042386"], []], [["topic", "\u5c3f\u9178\u9ad8", "19891739"], []], [["topic", "\u897f\u54f2", "20042382"], []], [["topic", "\u4e8c\u4ee3\u8eab\u4efd\u8bc1", "20042363"], []], [["topic", "\u8f6f\u4ef6\u4ecb\u7ecd", "19580068"], []], [["topic", "\u865a\u62df\u7f51\u6e38", "19656654"], []], [["topic", "\u795e\u534e", "19580086"], []], [["load", "\u52a0\u8f7d\u66f4\u591a", "19580086", "19776751"], []]]], "r": 0}
+*_*_*_*_*_*_*_*_*_
+getlist:set()
+*_*_*_*_*_*_*_*_*_*_
+posturl:https://www.zhihu.com/topic/19776749/organize/entire?child=19580086&parent=19776751
+html:{"msg": [["topic", "\u300c\u672a\u5f52\u7c7b\u300d\u8bdd\u9898", "19776751"], [[["topic", "Julia", "19656634"], []], [["topic", "Titanium", "19656637"], []], [["topic", "\u624b\u673a\u6444\u50cf", "19856404"], []], [["topic", "BMX", "19719144"], []], [["topic", "\u5373\u70ed\u5f0f", "20040701"], []], [["topic", "\u4e5d\u5927\u5458", "20040705"], []], [["topic", "\u6fc0\u52b1\u673a\u5236", "19646201"], []], [["topic", "\u81ea\u52a8\u5173\u6ce8", "20040682"], []], [["topic", "HCE", "20040675"], []], [["topic", "\u821f\u5c71\u516c\u52a1\u5458", "20040680"], []], [["load", "\u52a0\u8f7d\u66f4\u591a", "20040680", "19776751"], []]]], "r": 0}
+*_*_*_*_*_*_*_*_*_
+getlist:set()
+*_*_*_*_*_*_*_*_*_*_
+posturl:https://www.zhihu.com/topic/19776749/organize/entire?child=20040680&parent=19776751
+html:{"msg": [["topic", "\u300c\u672a\u5f52\u7c7b\u300d\u8bdd\u9898", "19776751"], [[["topic", "\u6587\u5316\u517b\u8001", "20040696"], []], [["topic", "\u4eba\u4f26", "19723130"], []], [["topic", "\u8239\u673a\u4fee\u9020\u4e13\u4e1a", "19723120"], []], [["topic", "\u5149\u660e\u9a7e\u6821", "20040693"], []], [["topic", "\u81ea\u52a8\u751f\u6210", "19972682"], []], [["topic", "\u53d1\u9645\u7ebf\u540e\u79fb", "19896580"], []], [["topic", "\u5fae\u535a\u8425\u9500-Soul", "19717358"], []], [["topic", "bianc", "20032724"], []], [["topic", "Bold9780", "19720088"], []], [["topic", "\u670d\u5f79", "19720094"], []], [["load", "\u52a0\u8f7d\u66f4\u591a", "19720094", "19776751"], []]]], "r": 0}
+*_*_*_*_*_*_*_*_*_
+getlist:set()
+*_*_*_*_*_*_*_*_*_*_
+posturl:https://www.zhihu.com/topic/19776749/organize/entire?child=19720094&parent=19776751
+html:{"msg": [["topic", "\u300c\u672a\u5f52\u7c7b\u300d\u8bdd\u9898", "19776751"], [[["topic", "\u7559\u6cd5", "19720099"], []], [["topic", "\u690d\u7269\u56fe\u9274", "19720107"], []], [["topic", "\u6212\u9664", "19627123"], []], [["topic", "\u627e\u4e66", "19627119"], []], [["topic", "LSI", "19615683"], []], [["topic", "\u4e73\u623f\u80bf\u5757", "19858190"], []], [["topic", "\u6574\u4f53\u8f6f\u88c5\u8bbe\u8ba1", "19858172"], []], [["topic", "\u9ed1\u5929\u9e45\u4e8b\u4ef6", "19615695"], []], [["topic", "social entrepreneurship", "19968401"], []], [["topic", "\u793e\u4f1a\u521b\u4e1a", "19968397"], []], [["load", "\u52a0\u8f7d\u66f4\u591a", "19968397", "19776751"], []]]], "r": 0}
+*_*_*_*_*_*_*_*_*_
+getlist:set()
+*_*_*_*_*_*_*_*_*_*_
+posturl:https://www.zhihu.com/topic/19776749/organize/entire?child=19968397&parent=19776751
+html:{"msg": [["topic", "\u300c\u672a\u5f52\u7c7b\u300d\u8bdd\u9898", "19776751"], [[["topic", "\u516c\u4f17\u826f\u5fc3", "19628164"], []], [["topic", "\u6559\u5e08\u62db\u8058", "19968382"], []], [["topic", "\u5c0f\u989d\u8d37\u6b3e\u7ba1\u7406\u8f6f\u4ef6", "19968377"], []], [["topic", "\u5c0f\u989d\u8d37\u6b3e\u4e1a\u52a1\u7ba1\u7406\u7cfb\u7edf", "19968376"], []], [["topic", "\u78d5\u5899", "20046415"], []], [["topic", "\u4e39\u5c3c\u5c14\u00b7\u514b\u96f7\u683c", "20046420"], []], [["topic", "IPv5", "20005386"], []], [["topic", "\u8fb9\u9645\u4e3b\u4e49", "20005385"], []], [["topic", "\u6df1\u63a2\u7a76", "19843724"], []], [["topic", "\u5c4c\u4e1d\u8bbe\u8ba1\u5e08", "20005389"], []], [["load", "\u52a0\u8f7d\u66f4\u591a", "20005389", "19776751"], []]]], "r": 0}
+*_*_*_*_*_*_*_*_*_
+getlist:set()
+*_*_*_*_*_*_*_*_*_*_
+posturl:https://www.zhihu.com/topic/19776749/organize/entire?child=20005389&parent=19776751
+html:{"msg": [["topic", "\u300c\u672a\u5f52\u7c7b\u300d\u8bdd\u9898", "19776751"], [[["topic", "\u5bfc\u8d2d\u7c7b", "20046411"], []], [["topic", "\u6444\u9662\u5b66\u9662", "20005395"], []], [["topic", "\u82cf\u7ef4\u57c3", "20046406"], []], [["topic", "\u9ad8\u80fd\u7406\u8bba", "20046408"], []], [["topic", "\u7b97\u6cd5\u4f5c\u66f2", "19814523"], []], [["topic", "\u535a\u5b66", "19748954"], []], [["topic", "indeed", "20045267"], []], [["topic", "\u6b66\u6c49\u690d\u7269\u56ed", "20045268"], []], [["topic", "\u6027\u521b\u4f24", "20045261"], []], [["topic", "\u85e4\u840d", "20045263"], []], [["load", "\u52a0\u8f7d\u66f4\u591a", "20045263", "19776751"], []]]], "r": 0}
+*_*_*_*_*_*_*_*_*_
+getlist:set()
+*_*_*_*_*_*_*_*_*_*_
+posturl:https://www.zhihu.com/topic/19776749/organize/entire?child=20045263&parent=19776751
+html:{"msg": [["topic", "\u300c\u672a\u5f52\u7c7b\u300d\u8bdd\u9898", "19776751"], [[["topic", "\u82b1\u7eb9", "20045265"], []], [["topic", "\u76d8\u77f3", "20045279"], []], [["topic", "\u79fb\u52a8\u5e94\u7528\u6700\u4f73\u5b9e\u8df5", "19711497"], []], [["topic", "\u9996\u9875\u8bbe\u8ba1", "19660273"], []], [["topic", "\u95ee\u8def", "19660260"], []], [["topic", "\u80a1\u6743\u51bb\u7ed3", "20003696"], []], [["topic", "\u7f51\u8d5a\u9879\u76ee", "19860130"], []], [["topic", "\u8c37\u6b4c\u8054\u76df", "19594277"], []], [["topic", "\u6d3b\u6cfc", "19605761"], []], [["topic", "\u6e05\u70ed\u89e3\u6bd2", "19605775"], []], [["load", "\u52a0\u8f7d\u66f4\u591a", "19605775", "19776751"], []]]], "r": 0}
+*_*_*_*_*_*_*_*_*_
+getlist:set()
+*_*_*_*_*_*_*_*_*_*_
+posturl:https://www.zhihu.com/topic/19776749/organize/entire?child=19605775&parent=19776751
+html:{"msg": [["topic", "\u300c\u672a\u5f52\u7c7b\u300d\u8bdd\u9898", "19776751"], [[["topic", "\u6c11\u4e8b\u7ea0\u7eb7", "19860133"], []], [["topic", "\u6cd5\u9662\u804c\u6743\u6ee5\u7528", "19860136"], []], [["topic", "\u8702\u4ea7\u54c1", "19863940"], []], [["topic", "\u597d\u611f", "19665767"], []], [["topic", "\u7f8e\u672f\u6559\u80b2", "19799239"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19799239"], []]]], [["topic", "\u978b\u5b50\u4fdd\u517b", "19852223"], []], [["topic", "\u71c3\u70e7\u5b66", "19852240"], []], [["topic", "\u4e22\u8138", "19943806"], []], [["topic", "\u81ea\u6211\u56f0\u60d1", "19879959"], []], [["topic", "\u817e\u9f99", "19633395"], []], [["load", "\u52a0\u8f7d\u66f4\u591a", "19633395", "19776751"], []]]], "r": 0}
+*_*_*_*_*_*_*_*_*_
+getlist:{'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19799239'}
+*_*_*_*_*_*_*_*_*_*_
+posturl:https://www.zhihu.com/topic/19776749/organize/entire?child=19633395&parent=19776751
+html:{"msg": [["topic", "\u300c\u672a\u5f52\u7c7b\u300d\u8bdd\u9898", "19776751"], [[["topic", "\u67a2\u7ebd\u7f51", "19633378"], []], [["topic", "\u7f51\u7ad9\u7a7a\u95f4", "19633385"], []], [["topic", "nexu4", "19799069"], []], [["topic", "\u78c1\u76d8\u683c\u5f0f", "19552614"], []], [["topic", "\u4e2d\u56fd\u8003\u53e4", "20049684"], []], [["topic", "\u6e38\u620f\u672a\u6765", "20049680"], []], [["topic", "\u7533\u529e\u5965\u8fd0\u4f1a", "20049687"], []], [["topic", "\u86af\u8693\u5de5\u5382", "20049667"], []], [["topic", "\u4e24\u5b66\u4e00\u505a", "20049672"], []], [["topic", "crab", "20049695"], []], [["load", "\u52a0\u8f7d\u66f4\u591a", "20049695", "19776751"], []]]], "r": 0}
+*_*_*_*_*_*_*_*_*_
+getlist:set()
+*_*_*_*_*_*_*_*_*_*_
+posturl:https://www.zhihu.com/topic/19776749/organize/entire?child=20049695&parent=19776751
+html:{"msg": [["topic", "\u300c\u672a\u5f52\u7c7b\u300d\u8bdd\u9898", "19776751"], [[["topic", "\u5f52\u56e0", "20049693"], []], [["topic", "SEO \u57f9\u8bad\u673a\u6784", "19678799"], []], [["topic", "\u66ff\u4ee3\u533b\u5b66", "20009951"], []], [["topic", "HUBOT", "19678790"], []], [["topic", "\u6587\u5316\u8bef\u533a", "19961948"], []], [["topic", "\u95ee\u7b54\u793e\u4ea4", "19595654"], []], [["topic", "\u7ec7\u7269\u5370\u82b1", "19865368"], []], [["topic", "\u5df4\u897f\u5965\u8fd0\u4f1a", "20057021"], []], [["topic", "\u7ed5\u6d41", "20057014"], []], [["topic", "OAuth 2.0", "19645331"], []], [["load", "\u52a0\u8f7d\u66f4\u591a", "19645331", "19776751"], []]]], "r": 0}
+*_*_*_*_*_*_*_*_*_
+getlist:set()
+*_*_*_*_*_*_*_*_*_*_
+posturl:https://www.zhihu.com/topic/19776749/organize/entire?child=19645331&parent=19776751
+html:{"msg": [["topic", "\u300c\u672a\u5f52\u7c7b\u300d\u8bdd\u9898", "19776751"], [[["topic", "\u963f\u62c9\u4f2f\u6587", "20057035"], []], [["topic", "\u5c0f\u8d44\u4ea7\u9636\u7ea7", "20057040"], []], [["topic", "\u7f6a\u884c", "19645315"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19645315"], []]]], [["topic", "\u624b\u673a\u9500\u552e", "19645319"], []], [["topic", "\u6027\u8f6c", "20057042"], []], [["topic", "\u6155\u5bb9\u590d", "20057044"], []], [["topic", "\u5f02\u5473", "19645338"], []], [["topic", "vogue", "19651633"], []], [["topic", "\u5f71\u97f3", "19651639"], []], [["topic", "\u65e5\u6599", "19777006"], []], [["load", "\u52a0\u8f7d\u66f4\u591a", "19777006", "19776751"], []]]], "r": 0}
+*_*_*_*_*_*_*_*_*_
+getlist:{'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19645315'}
+*_*_*_*_*_*_*_*_*_*_
+posturl:https://www.zhihu.com/topic/19776749/organize/entire?child=19777006&parent=19776751
+html:{"msg": [["topic", "\u300c\u672a\u5f52\u7c7b\u300d\u8bdd\u9898", "19776751"], [[["topic", "\u514d\u8d39\u7eed\u676f", "19698407"], []], [["topic", "golf varinat", "19652070"], []], [["topic", "\u6162\u9012", "19652059"], []], [["topic", "\u6c7d\u8f66\u89c2\u5ff5", "19652079"], []], [["topic", "\u5bc6\u4fdd", "20034800"], []], [["topic", "\u8f6c\u578b\u671f", "19644491"], []], [["topic", "\u6c7d\u8f66\u670d\u52a1", "19644500"], []], [["topic", "manager", "19644498"], []], [["topic", "\u4fe1\u606f\u788e\u7247\u5316", "19808484"], []], [["topic", "\u7ba1\u7406\u601d\u60f3", "19687830"], []], [["load", "\u52a0\u8f7d\u66f4\u591a", "19687830", "19776751"], []]]], "r": 0}
+*_*_*_*_*_*_*_*_*_
+getlist:set()
+*_*_*_*_*_*_*_*_*_*_
+posturl:https://www.zhihu.com/topic/19776749/organize/entire?child=19687830&parent=19776751
+html:{"msg": [["topic", "\u300c\u672a\u5f52\u7c7b\u300d\u8bdd\u9898", "19776751"], [[["topic", "\u6210\u719f\u8fc7\u7a0b", "19808494"], []], [["topic", "\u7ebf\u6750", "19808495"], []], [["topic", "\u65bd\u6d3e", "20022432"], []], [["topic", "\u65b0\u95fb\u8ffd\u8e2a", "20022436"], []], [["topic", "\u771f\u4e1d\u6d17\u6da4", "19868886"], []], [["topic", "\u534e\u590f\u5e78\u798f\u57fa\u4e1a", "19868878"], []], [["topic", "\u7231\u60c5\u7684\u9762\u76ee", "19868893"], []], [["topic", "\u76ee\u6807\u7528\u6237", "19564500"], []], [["topic", "\u5e02\u573a\u60c5\u62a5\u6536\u96c6\u4e0e\u5206\u6790", "19564510"], []], [["topic", "\u804c\u4e1a\u73af\u5883", "19564505"], []], [["load", "\u52a0\u8f7d\u66f4\u591a", "19564505", "19776751"], []]]], "r": 0}
+*_*_*_*_*_*_*_*_*_
+getlist:set()
+*_*_*_*_*_*_*_*_*_*_
+posturl:https://www.zhihu.com/topic/19776749/organize/entire?child=19564505&parent=19776751
+html:{"msg": [["topic", "\u300c\u672a\u5f52\u7c7b\u300d\u8bdd\u9898", "19776751"], [[["topic", "\u6d41\u91cf\u5de5\u5177", "19564511"], []], [["topic", "\u56bc\u70df", "20059992"], []], [["topic", "\u50cf\u7d20", "19564521"], []], [["topic", "\u5f85\u4eba\u63a5\u7269", "19793171"], []], [["topic", "\u6d9b\u5c9b", "20059994"], []], [["topic", "\u9759\u6001\u89c6\u529b", "20059979"], []], [["topic", "\u52a8\u6001\u89c6\u529b", "20059976"], []], [["topic", "\u4e0a\u62c9\u7535\u963b", "20059986"], []], [["topic", "\u5c0f\u578bXBOX\u4e3b\u673a", "20059983"], []], [["topic", "\u51cf\u5211", "19609304"], []], [["load", "\u52a0\u8f7d\u66f4\u591a", "19609304", "19776751"], []]]], "r": 0}
+*_*_*_*_*_*_*_*_*_
+getlist:set()
+*_*_*_*_*_*_*_*_*_*_
+posturl:https://www.zhihu.com/topic/19776749/organize/entire?child=19609304&parent=19776751
+html:{"msg": [["topic", "\u300c\u672a\u5f52\u7c7b\u300d\u8bdd\u9898", "19776751"], [[["topic", "12factor", "20054176"], []], [["topic", "\u8ffd\u661f\u65cf", "19855727"], []], [["topic", "\u9f7f\u9699", "20054161"], []], [["topic", "\u5df4\u62ff\u9a6c\u5730\u5ce1", "20054159"], []], [["topic", "\u8c03\u6027", "19609282"], []], [["topic", "\u97f3\u4e50\u8bc6\u522b", "19609289"], []], [["topic", "\u82b1\u5f0f\u5582\u72d7\u7cae", "20054143"], []], [["topic", "\u9759\u5188", "20054155"], []], [["topic", "\u74f6\u9888", "19609302"], []], [["topic", "\u9694\u97f3\u4e13\u5bb6", "19916180"], []], [["load", "\u52a0\u8f7d\u66f4\u591a", "19916180", "19776751"], []]]], "r": 0}
+*_*_*_*_*_*_*_*_*_
+getlist:set()
+*_*_*_*_*_*_*_*_*_*_
+posturl:https://www.zhihu.com/topic/19776749/organize/entire?child=19916180&parent=19776751
+html:{"msg": [["topic", "\u300c\u672a\u5f52\u7c7b\u300d\u8bdd\u9898", "19776751"], [[["topic", "\u77e5\u53cb\u805a\u4f1a", "19598734"], []], [["topic", "\u73af\u4e16\u754c", "20058513"], []], [["topic", "\u7f8e\u56fd\u56fd\u5bb6\u5730\u7406", "19794898"], []], [["topic", "\u7528\u6237\u7559\u5b58", "19794889"], []], [["topic", "\u7537\u6027\u6743\u76ca", "20058501"], []], [["topic", "\u5973\u5b69\u5b50\u9009\u4e13\u4e1a", "19965376"], []], [["topic", "\u5b9a\u505a\u9080\u8bf7\u51fd", "19965368"], []], [["topic", "\u4e2a\u4eba\u521b\u4e1a", "19676984"], []], [["topic", "SGS", "19676987"], []], [["topic", "\u4e8c\u5341\u4e00\u4e09\u4f53\u7efc\u5408\u75c7", "19789149"], []], [["load", "\u52a0\u8f7d\u66f4\u591a", "19789149", "19776751"], []]]], "r": 0}
+*_*_*_*_*_*_*_*_*_
+getlist:set()
+*_*_*_*_*_*_*_*_*_*_
+posturl:https://www.zhihu.com/topic/19776749/organize/entire?child=19789149&parent=19776751
+html:{"msg": [["topic", "\u300c\u672a\u5f52\u7c7b\u300d\u8bdd\u9898", "19776751"], [[["topic", "\u5355\u54c1\u901a\u6d3b\u52a8", "19965394"], []], [["topic", "\u4e91\u6740\u6bd2", "19563226"], []], [["topic", "\u4e2d\u56fd\u6c99\u6f20\u6539\u5584", "19962594"], []], [["topic", "\u804c\u79f0\u8003\u8bd5", "19798516"], []], [["topic", "\u7740\u9646", "19581334"], []], [["topic", "\u8dd1\u9053", "19581331"], []], [["topic", "\u793e\u4f1a\u65b0\u95fb", "19581350"], []], [["topic", "WaveFax", "19830949"], []], [["topic", "\u6295\u8d44\u5b89\u5168", "19961326"], []], [["topic", "\u7406\u8d22\u5b89\u5168", "19961317"], []], [["load", "\u52a0\u8f7d\u66f4\u591a", "19961317", "19776751"], []]]], "r": 0}
+*_*_*_*_*_*_*_*_*_
+getlist:set()
+*_*_*_*_*_*_*_*_*_*_
+posturl:https://www.zhihu.com/topic/19776749/organize/entire?child=19961317&parent=19776751
+html:{"msg": [["topic", "\u300c\u672a\u5f52\u7c7b\u300d\u8bdd\u9898", "19776751"], [[["topic", "\u5b89\u5168\u4fdd\u969c", "19961316"], []], [["topic", "\u592a\u7a7a\u98de\u884c", "19961301"], []], [["topic", "\u5728\u7ebf\u6295\u8d44", "19961306"], []], [["topic", "\u6e38\u65cf", "20042107"], []], [["topic", "\u6536\u8d39", "19568957"], []], [["topic", "\u4e50\u8da3", "19568951"], []], [["topic", "Designer", "19568949"], []], [["topic", "AR\u6280\u672f", "19568963"], []], [["topic", "\u95e8\u69db", "19568959"], []], [["topic", "\u7f16\u53f7", "19760686"], []], [["load", "\u52a0\u8f7d\u66f4\u591a", "19760686", "19776751"], []]]], "r": 0}
+*_*_*_*_*_*_*_*_*_
+getlist:set()
+*_*_*_*_*_*_*_*_*_*_
+posturl:https://www.zhihu.com/topic/19776749/organize/entire?child=19760686&parent=19776751
+html:{"msg": [["topic", "\u300c\u672a\u5f52\u7c7b\u300d\u8bdd\u9898", "19776751"], [[["topic", "\u5e02\u573a\u8c03\u67e5\u516c\u53f8", "19760690"], []], [["topic", "\u7efc\u5408", "19688797"], []], [["topic", "\u5973PUA", "19919082"], []], [["topic", "\u56fd\u9645\u6d88\u8d39\u7535\u5b50\u5c55\uff08ICES\uff09", "19552701"], []], [["topic", "\u9886\u7a7a", "19685836"], []], [["topic", "\u6b4c\u8bcd\u8bed\u6cd5", "19969133"], []], [["topic", "\u8c03\u7126\u8f6f\u4ef6", "19969141"], []], [["topic", "\u516b\u5366\u6c42\u89e3", "19685863"], []], [["topic", "fantasy", "19596102"], []], [["topic", "\u77e5\u5929\u547d", "19944258"], []], [["load", "\u52a0\u8f7d\u66f4\u591a", "19944258", "19776751"], []]]], "r": 0}
+*_*_*_*_*_*_*_*_*_
+getlist:set()
+*_*_*_*_*_*_*_*_*_*_
+posturl:https://www.zhihu.com/topic/19776749/organize/entire?child=19944258&parent=19776751
+html:{"msg": [["topic", "\u300c\u672a\u5f52\u7c7b\u300d\u8bdd\u9898", "19776751"], [[["topic", "\u4e1c\u839e\u626b\u9ec4", "19944255"], []], [["topic", "\u8de8\u56fd\u5de5\u4f5c", "20036060"], []], [["topic", "\u540c\u5fd7", "19555395"], []], [["topic", "Software License", "19565895"], []], [["topic", "\u624b\u6301\u8eab\u4efd\u8bc1\u7167\u7247", "20059867"], []], [["topic", "\u4e2d\u5357\u534a\u5c9b", "20059874"], []], [["topic", "\u5a92\u4f53\u66b4\u529b", "20059877"], []], [["topic", "\u4e92\u8054\u7f51\u516c\u5ba1", "20059878"], []], [["topic", "\u865a\u62df\u5076\u50cf", "20059879"], []], [["topic", "\u6cb3\u6d77\u5927\u5b66\u5e38\u5dde\u6821\u533a", "20059883"], []], [["load", "\u52a0\u8f7d\u66f4\u591a", "20059883", "19776751"], []]]], "r": 0}
+*_*_*_*_*_*_*_*_*_
+getlist:set()
+*_*_*_*_*_*_*_*_*_*_
+posturl:https://www.zhihu.com/topic/19776749/organize/entire?child=20059883&parent=19776751
+html:{"msg": [["topic", "\u300c\u672a\u5f52\u7c7b\u300d\u8bdd\u9898", "19776751"], [[["topic", "\u9650\u5236\u6027\u80a1\u7968", "20059885"], []], [["topic", "B20", "20059888"], []], [["topic", "\u8f66\u8003\u9a7e\u7167", "19958975"], []], [["topic", "\u591a\u5ba2\u670d", "20032344"], []], [["topic", "\u5c0f\u725b\u7535\u52a8", "20032347"], []], [["topic", "\u6881\u5efa\u7ae0", "20032358"], []], [["topic", "\u5f62\u8c61\u5305\u88c5", "19670752"], []], [["topic", "\u7834\u8bd1", "19670769"], []], [["topic", "\u5916\u592a\u7a7a", "19709983"], []], [["topic", "\u4f01\u4e1a\u62db\u8058", "19593166"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19593166"], []]]], [["load", "\u52a0\u8f7d\u66f4\u591a", "19593166", "19776751"], []]]], "r": 0}
+*_*_*_*_*_*_*_*_*_
+getlist:{'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19593166'}
+*_*_*_*_*_*_*_*_*_*_
+posturl:https://www.zhihu.com/topic/19776749/organize/entire?child=19593166&parent=19776751
+html:{"msg": [["topic", "\u300c\u672a\u5f52\u7c7b\u300d\u8bdd\u9898", "19776751"], [[["topic", "\u8c03\u5242", "19687761"], []], [["topic", "\u5f81\u5730\u8865\u507f", "19828607"], []], [["topic", "\u6469\u5929\u5927\u53a6", "19687756"], []], [["topic", "\u6c7d\u8f66\u81ea\u52a8\u6321\u8fd8\u662f\u624b\u52a8\u6321", "19910611"], []], [["topic", "\u65b0\u5175\u8bad\u7ec3\u8425", "19603974"], []], [["topic", "\u6f5c\u80fd", "19603970"], []], [["topic", "\u521d\u7ea7\u804c\u79f0", "19876896"], []], [["topic", "\u9506\u77f3", "19876156"], []], [["topic", "\u4eba\u624d\u5f15\u8fdb", "19899616"], []], [["topic", "\u673a\u68b0\u589e\u538b", "19923725"], []], [["load", "\u52a0\u8f7d\u66f4\u591a", "19923725", "19776751"], []]]], "r": 0}
+*_*_*_*_*_*_*_*_*_
+getlist:set()
+*_*_*_*_*_*_*_*_*_*_
+posturl:https://www.zhihu.com/topic/19776749/organize/entire?child=19923725&parent=19776751
+html:{"msg": [["topic", "\u300c\u672a\u5f52\u7c7b\u300d\u8bdd\u9898", "19776751"], [[["topic", "\u7f8e\u56fd\u603b\u7edf\u7ade\u9009", "19923729"], []], [["topic", "\u5927\u6cd5\u5b98", "19899603"], []], [["topic", "\u6587\u7f51\u6587", "19876153"], []], [["topic", "\u57fa\u7840\u79d1\u5b66", "19899998"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19899998"], []]]], [["topic", "\u7ecf\u5178\u52a8\u753b", "20054054"], []], [["topic", "\u9f3b\u5b54", "19696432"], []], [["topic", "\u5e72\u71e5", "19696436"], []], [["topic", "\u5bcc\u5fae\u535a", "19587671"], []], [["topic", "\u5341\u4e07\u4e2a\u4e3a\u4ec0\u4e48", "19587654"], []], [["topic", "\u72b9\u592a", "19795389"], []], [["load", "\u52a0\u8f7d\u66f4\u591a", "19795389", "19776751"], []]]], "r": 0}
+*_*_*_*_*_*_*_*_*_
+getlist:{'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19899998'}
+*_*_*_*_*_*_*_*_*_*_
+posturl:https://www.zhihu.com/topic/19776749/organize/entire?child=19795389&parent=19776751
+html:{"msg": [["topic", "\u300c\u672a\u5f52\u7c7b\u300d\u8bdd\u9898", "19776751"], [[["topic", "\u91ce\u9910", "19702345"], []], [["topic", "\u672c\u5730\u751f\u6d3b\u4fe1\u606f\u670d\u52a1", "19573533"], []], [["topic", "\u751f\u7269\u4e4b\u8c1c", "20027436"], []], [["topic", "\u6388\u8bfe\u578b\u7814\u7a76\u751f", "19897183"], []], [["topic", "\u66f4\u6362\u624b\u673a", "19810331"], []], [["topic", "\u5bb6\u7528DV", "19810317"], []], [["topic", "\u4f18\u8d8a\u6027", "20027415"], []], [["topic", "Yispecter", "20027441"], []], [["topic", "\u684c\u5e03", "19881375"], []], [["topic", "\u9b3c\u602a", "19595453"], []], [["load", "\u52a0\u8f7d\u66f4\u591a", "19595453", "19776751"], []]]], "r": 0}
+*_*_*_*_*_*_*_*_*_
+getlist:set()
+*_*_*_*_*_*_*_*_*_*_
+posturl:https://www.zhihu.com/topic/19776749/organize/entire?child=19595453&parent=19776751
+html:{"msg": [["topic", "\u300c\u672a\u5f52\u7c7b\u300d\u8bdd\u9898", "19776751"], [[["topic", "windows media center", "19607818"], []], [["topic", "\u94bb\u77f3\u9500\u552e\u7f51\u7ad9", "19607817"], []], [["topic", "\u4e0a\u5e1d\u63b7\u9ab0\u5b50\u5417\uff08\u4e66\u7c4d\uff09", "19833778"], []], [["topic", "\u96c6\u6210\u540a\u9876", "19835984"], []], [["topic", "\u5c4c\u4e1d\u6587\u5316", "19903250"], []], [["topic", "TSP\u95ee\u9898", "20004129"], []], [["topic", "\u5f00\u5355", "20018913"], []], [["topic", "\u89c2\u5f71\u5fc3\u5f97", "19758967"], []], [["topic", "\u590f\u65b0\u5927V", "19746506"], []], [["topic", "SuperMap", "19688138"], []], [["load", "\u52a0\u8f7d\u66f4\u591a", "19688138", "19776751"], []]]], "r": 0}
+*_*_*_*_*_*_*_*_*_
+getlist:set()
+*_*_*_*_*_*_*_*_*_*_
+posturl:https://www.zhihu.com/topic/19776749/organize/entire?child=19688138&parent=19776751
+html:{"msg": [["topic", "\u300c\u672a\u5f52\u7c7b\u300d\u8bdd\u9898", "19776751"], [[["topic", "\u9ed1\u5be1\u5987", "19746496"], []], [["topic", "\u7535\u6e90\u63d2\u5ea7", "19797359"], []], [["topic", "\u4e2d\u4e1c\u6b27", "20044657"], []], [["topic", "\u7b2c\u4e8c\u804c\u4e1a", "19557821"], []], [["topic", "gt'gk", "20044649"], []], [["topic", "\u5728\u7ebf\u5236\u4f5c", "20044654"], []], [["topic", "\u5434\u5065\u96c4\u5b66\u9662", "20044671"], []], [["topic", "\u4e8c\u8111\u9910", "20044663"], []], [["topic", "\u5982\u5395", "19826672"], []], [["topic", "\u4e0e\u7236\u6bcd\u76f8\u5904", "19893416"], []], [["load", "\u52a0\u8f7d\u66f4\u591a", "19893416", "19776751"], []]]], "r": 0}
+*_*_*_*_*_*_*_*_*_
+getlist:set()
+*_*_*_*_*_*_*_*_*_*_
+posturl:https://www.zhihu.com/topic/19776749/organize/entire?child=19893416&parent=19776751
+html:{"msg": [["topic", "\u300c\u672a\u5f52\u7c7b\u300d\u8bdd\u9898", "19776751"], [[["topic", "\u65b0\u98ce", "20044676"], []], [["topic", "\u5916\u6302", "19826667"], []], [["topic", "\u9752\u5e74\u5bfc\u5e08", "19584689"], []], [["topic", "\u88f8\u4f53", "19584690"], []], [["topic", "\u5408\u80a5\u70ed\u7ebf", "19679188"], []], [["topic", "\u901f\u6210", "19679202"], []], [["topic", "\u5927\u5b66\u751f\u82f1\u8bed\u7ade\u8d5b", "19836471"], []], [["topic", "\u7d2b\u5916\u7ebf\u6d88\u6bd2\u5668", "19840440"], []], [["topic", "\u5730\u4e0b\u5ba4", "19689507"], []], [["topic", "\u6cb9\u7535\u6df7\u5408", "19840463"], []], [["load", "\u52a0\u8f7d\u66f4\u591a", "19840463", "19776751"], []]]], "r": 0}
+*_*_*_*_*_*_*_*_*_
+getlist:set()
+*_*_*_*_*_*_*_*_*_*_
+posturl:https://www.zhihu.com/topic/19776749/organize/entire?child=19840463&parent=19776751
+html:{"msg": [["topic", "\u300c\u672a\u5f52\u7c7b\u300d\u8bdd\u9898", "19776751"], [[["topic", "\u82cf\u5bcc\u6bd4", "19892383"], []], [["topic", "\u7167\u7247\u6574\u7406", "19826254"], []], [["topic", "LBE \u5c0f\u7ec4", "19731028"], []], [["topic", "Cyberculture", "19731034"], []], [["topic", "\u4e1c\u65b9\u4e3b\u4e49\uff08Orientalism\uff09", "19731047"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19731047"], []]]], [["topic", "\u4e8c\u624b\u4e66", "19552968"], []], [["topic", "\u5730\u65b9\u95e8\u6237", "19578891"], []], [["topic", "\u6821\u56ed\u8425\u9500", "19578890"], []], [["topic", "\u6492\u8c0e", "19552963"], []], [["topic", "The Next Web\uff08TNW\uff09", "19552944"], []], [["load", "\u52a0\u8f7d\u66f4\u591a", "19552944", "19776751"], []]]], "r": 0}
+*_*_*_*_*_*_*_*_*_
+getlist:{'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19731047'}
+*_*_*_*_*_*_*_*_*_*_
+posturl:https://www.zhihu.com/topic/19776749/organize/entire?child=19552944&parent=19776751
+html:{"msg": [["topic", "\u300c\u672a\u5f52\u7c7b\u300d\u8bdd\u9898", "19776751"], [[["topic", "\u81ea\u7531\u610f\u5fd7\u4e3b\u4e49", "19858374"], []], [["topic", "\u4e16\u754c\u540d\u8457", "19858390"], []], [["topic", "\u6148\u60b2", "19858383"], []], [["topic", "\u9632\u4fb5\u5bb3", "20003805"], []], [["topic", "\u5267\u7167", "19742478"], []], [["topic", "ji'lu'p", "20003797"], []], [["topic", "\u7eff\u76ae\u8f66", "20003800"], []], [["topic", "\u6c11\u6b4c\u8fd0\u52a8", "20003799"], []], [["topic", "Ferragamo", "20003816"], []], [["topic", "\u7406\u667a\u4e0e\u60c5\u611f", "19614174"], []], [["load", "\u52a0\u8f7d\u66f4\u591a", "19614174", "19776751"], []]]], "r": 0}
+*_*_*_*_*_*_*_*_*_
+getlist:set()
+*_*_*_*_*_*_*_*_*_*_
+posturl:https://www.zhihu.com/topic/19776749/organize/entire?child=19614174&parent=19776751
+html:{"msg": [["topic", "\u300c\u672a\u5f52\u7c7b\u300d\u8bdd\u9898", "19776751"], [[["topic", "\u5927\u5bb6\u6295", "19989886"], []], [["topic", "\u65e5\u7cfb\u6de1\u96c5", "19841695"], []], [["topic", "\u4ea4\u901a\u4e8b\u6545\u8d54\u507f", "19632720"], []], [["topic", "\u7535\u8111\u5b66\u4e60\u8d44\u6e90", "19632725"], []], [["topic", "CBS Corporation", "19748793"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19748793"], []]]], [["topic", "TechCrunch Disrupt", "19632711"], []], [["topic", "\u5d29\u76d8", "19632735"], []], [["topic", "cntk", "20046732"], []], [["topic", "\u8bd7\u548c\u8fdc\u65b9", "20046735"], []], [["topic", "\u94bb\u77f3\u56fd\u9645", "20046736"], []], [["load", "\u52a0\u8f7d\u66f4\u591a", "20046736", "19776751"], []]]], "r": 0}
+*_*_*_*_*_*_*_*_*_
+getlist:{'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19748793'}
+*_*_*_*_*_*_*_*_*_*_
+posturl:https://www.zhihu.com/topic/19776749/organize/entire?child=20046736&parent=19776751
+html:{"msg": [["topic", "\u300c\u672a\u5f52\u7c7b\u300d\u8bdd\u9898", "19776751"], [[["topic", "\u590d\u8bfb\u673a", "20046737"], []], [["topic", "\u5f71\u68da\u706f", "20046744"], []], [["topic", "\u65f6\u5149\u8f74", "19693776"], []], [["topic", "\u88aa\u6e7f", "19830808"], []], [["topic", "\u5355\u7ebf\u7a0b", "19637770"], []], [["topic", "\u8110\u5e26\u8840\u6350\u732e", "19637755"], []], [["topic", "FTL", "19830826"], []], [["topic", "\u65b0\u751f\u5a74\u513f\u6ce8\u610f\u4e8b\u9879", "19637757"], []], [["topic", "\u514b\u4e18\u4e9a", "20037328"], []], [["topic", "\u53a6\u95e8\u5e02", "19723461"], []], [["load", "\u52a0\u8f7d\u66f4\u591a", "19723461", "19776751"], []]]], "r": 0}
+*_*_*_*_*_*_*_*_*_
+getlist:set()
+*_*_*_*_*_*_*_*_*_*_
+posturl:https://www.zhihu.com/topic/19776749/organize/entire?child=19723461&parent=19776751
+html:{"msg": [["topic", "\u300c\u672a\u5f52\u7c7b\u300d\u8bdd\u9898", "19776751"], [[["topic", "maozhuxiwansui", "20043933"], []], [["topic", "\u6eec\u5287", "20037327"], []], [["topic", "job market", "20033086"], []], [["topic", "233", "20033082"], []], [["topic", "\u54f2\u5b66\u4e66", "19783801"], []], [["topic", "\u624b\u6e38\u5305", "20033058"], []], [["topic", "\u627e\u670b\u53cb", "19652792"], []], [["topic", "\u7cbe\u5f69\u56de\u7b54", "19652795"], []], [["topic", "Grooveshark", "19652809"], []], [["topic", "\u7f51\u8d2d\u7f51\u7ad9", "19652810"], []], [["load", "\u52a0\u8f7d\u66f4\u591a", "19652810", "19776751"], []]]], "r": 0}
+*_*_*_*_*_*_*_*_*_
+getlist:set()
+*_*_*_*_*_*_*_*_*_*_
+posturl:https://www.zhihu.com/topic/19776749/organize/entire?child=19652810&parent=19776751
+html:{"msg": [["topic", "\u300c\u672a\u5f52\u7c7b\u300d\u8bdd\u9898", "19776751"], [[["topic", "\u826f\u5e01", "20051364"], []], [["topic", "\u706f\u5177\u5e02\u573a", "19872205"], []], [["topic", "\u6597\u9c7c\u5e7f\u544a", "20051358"], []], [["topic", "\u80e1\u4e71\u90a6", "20051372"], []], [["topic", "\u773c\u955c\u7247", "19786030"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19786030"], []]]], [["topic", "\u5a01\u6743\u4e3b\u4e49", "19765891"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19765891"], []]]], [["topic", "\u91cf\u5316\u6d3e", "20012167"], []], [["topic", "\u8fde\u5750\u5236", "20012184"], []], [["topic", "\u9ad8\u9f84\u5c11\u5b50\u5316", "20012182"], []], [["topic", "VIVA \u65e0\u7ebf\u65b0\u5a92\u4f53", "19728245"], []], [["load", "\u52a0\u8f7d\u66f4\u591a", "19728245", "19776751"], []]]], "r": 0}
+*_*_*_*_*_*_*_*_*_
+getlist:{'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19765891', 'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19786030'}
+*_*_*_*_*_*_*_*_*_*_
+posturl:https://www.zhihu.com/topic/19776749/organize/entire?child=19728245&parent=19776751
+html:{"msg": [["topic", "\u300c\u672a\u5f52\u7c7b\u300d\u8bdd\u9898", "19776751"], [[["topic", "\u623f\u5c4b\u4fdd\u6e29", "19826041"], []], [["topic", "\u82f1\u6587\u4e66\u8bc4", "19663630"], []], [["topic", "\u964d\u6743", "19663627"], []], [["topic", "\u5370\u5237\u5382", "19663626"], []], [["topic", "SNS \u4ea7\u54c1", "19663614"], []], [["topic", "\u6c7d\u8f66\u96f6\u4ef6", "19663609"], []], [["topic", "\u56fa\u5b9a\u7ffc", "19861493"], []], [["topic", "\u82b1\u6728", "19861487"], []], [["topic", "\u5fae\u4fe1\u7406\u8d22\u901a", "19938810"], []], [["topic", "\u5927\u8111\u98ce\u66b4", "19938829"], []], [["load", "\u52a0\u8f7d\u66f4\u591a", "19938829", "19776751"], []]]], "r": 0}
+*_*_*_*_*_*_*_*_*_
+getlist:set()
+*_*_*_*_*_*_*_*_*_*_
+posturl:https://www.zhihu.com/topic/19776749/organize/entire?child=19938829&parent=19776751
+html:{"msg": [["topic", "\u300c\u672a\u5f52\u7c7b\u300d\u8bdd\u9898", "19776751"], [[["topic", "\u52a8\u6279", "19975981"], []], [["topic", "\u6162\u6027\u54bd\u5589\u708e\u53cd\u590d\u53d1\u4f5c", "19975974"], []], [["topic", "\u670d\u52a1\u5668\u5b89\u5168", "19861511"], []], [["topic", "\u4f24\u75db", "19975959"], []], [["topic", "\u5a74\u5e7c\u65e9\u6559", "19975960"], []], [["topic", "\u8131\u81fc", "19975958"], []], [["topic", "\u751f\u6d3b\u73b0\u573a", "19629952"], []], [["topic", "tkinter", "19865069"], []], [["topic", "\u95ed\u53e3\u7c89\u523a", "20029722"], []], [["topic", "\u6ef4\u773c\u6db2", "19700692"], []], [["load", "\u52a0\u8f7d\u66f4\u591a", "19700692", "19776751"], []]]], "r": 0}
+*_*_*_*_*_*_*_*_*_
+getlist:set()
+*_*_*_*_*_*_*_*_*_*_
+posturl:https://www.zhihu.com/topic/19776749/organize/entire?child=19700692&parent=19776751
+html:{"msg": [["topic", "\u300c\u672a\u5f52\u7c7b\u300d\u8bdd\u9898", "19776751"], [[["topic", "\u5348\u9910\u62cd\u5356", "20017776"], []], [["topic", "\u811a\u88f8", "20017762"], []], [["topic", "\u674e\u8273\u8273", "20017763"], []], [["topic", "\u6606\u660e\u706b\u8f66\u7ad9", "19952461"], []], [["topic", "cfido", "19554568"], []], [["topic", "\u4e18\u75b9", "20029730"], []], [["topic", "\u786c\u4ef6\u5f00\u53d1", "19937481"], []], [["topic", "\u7ea2\u75b9\u5b50", "20029739"], []], [["topic", "\u98ce\u53e3", "20044020"], []], [["topic", "\u7231\u770b\u8c46", "19680310"], []], [["load", "\u52a0\u8f7d\u66f4\u591a", "19680310", "19776751"], []]]], "r": 0}
+*_*_*_*_*_*_*_*_*_
+getlist:set()
+*_*_*_*_*_*_*_*_*_*_
+posturl:https://www.zhihu.com/topic/19776749/organize/entire?child=19680310&parent=19776751
+html:{"msg": [["topic", "\u300c\u672a\u5f52\u7c7b\u300d\u8bdd\u9898", "19776751"], [[["topic", "B2C \u5546\u57ce\u8fd0\u8425", "19635790"], []], [["topic", "\u4fe1\u4efb\u5371\u673a", "19787421"], []], [["topic", "\u77ed\u94fe\u63a5", "19564386"], []], [["topic", "\u798f\u5229\u5236\u5ea6", "19656790"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19656790"], []]]], [["topic", "\u96f6\u94b1\u5b9d", "19935658"], []], [["topic", "\u53cd\u7d20\u98df\u4e3b\u4e49", "19886459"], []], [["topic", "Wordpress SEO", "19656775"], []], [["topic", "\u5929\u72fc", "19656782"], []], [["topic", "\u5f53\u4ee3", "19621069"], []], [["topic", "\u56fe\u7ae0", "19621066"], []], [["load", "\u52a0\u8f7d\u66f4\u591a", "19621066", "19776751"], []]]], "r": 0}
+*_*_*_*_*_*_*_*_*_
+getlist:{'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19656790'}
+*_*_*_*_*_*_*_*_*_*_
+posturl:https://www.zhihu.com/topic/19776749/organize/entire?child=19621066&parent=19776751
+html:{"msg": [["topic", "\u300c\u672a\u5f52\u7c7b\u300d\u8bdd\u9898", "19776751"], [[["topic", "\u62a5\u5e9f", "19648829"], []], [["topic", "\u5c0f\u6ce2\u53d8\u6362\uff08wavelet transform\uff09", "19621077"], []], [["topic", "\u773c\u7403", "19648832"], []], [["topic", "DoNews\u5de5\u4f5c\u5ba4", "19719607"], []], [["topic", "BPM", "19627074"], []], [["topic", "\u5408\u4f5c\u4f19\u4f34", "19627069"], []], [["topic", "GNU Hurd", "19627051"], []], [["topic", "\u5fc3\u7406\u4e13\u5bb6", "19627061"], []], [["topic", "\u5ba1\u7247", "19627064"], []], [["topic", "abcdef", "19965950"], []], [["load", "\u52a0\u8f7d\u66f4\u591a", "19965950", "19776751"], []]]], "r": 0}
+*_*_*_*_*_*_*_*_*_
+getlist:set()
+*_*_*_*_*_*_*_*_*_*_
+posturl:https://www.zhihu.com/topic/19776749/organize/entire?child=19965950&parent=19776751
+html:{"msg": [["topic", "\u300c\u672a\u5f52\u7c7b\u300d\u8bdd\u9898", "19776751"], [[["topic", "\u65b0\u5e74\u795d\u798f", "19929196"], []], [["topic", "sequelpro", "19965953"], []], [["topic", "\u8352\u6f20", "19965966"], []], [["topic", "\u5fd9\u884c", "19965961"], []], [["topic", "\u514d\u9a8c\u8d44", "19965975"], []], [["topic", "Prestashop", "19621914"], []], [["topic", "\u7f51\u7edc\u7ed3\u6784", "19621920"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19621920"], []]]], [["topic", "\u59a5\u534f", "19631804"], []], [["topic", "\u9a6c\u620f\u56e2", "19631793"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19631793"], []]]], [["topic", "\u6e38\u4e50\u573a", "19631792"], []], [["load", "\u52a0\u8f7d\u66f4\u591a", "19631792", "19776751"], []]]], "r": 0}
+*_*_*_*_*_*_*_*_*_
+getlist:{'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19631793', 'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19621920'}
+*_*_*_*_*_*_*_*_*_*_
+posturl:https://www.zhihu.com/topic/19776749/organize/entire?child=19631792&parent=19776751
+html:{"msg": [["topic", "\u300c\u672a\u5f52\u7c7b\u300d\u8bdd\u9898", "19776751"], [[["topic", "\u661f\u5ea7\u914d\u5bf9", "19593916"], []], [["topic", "\u5927\u4f17\u5fc3\u7406\u5b66", "19631801"], []], [["topic", "\u5566\u5566\u961f", "19733627"], []], [["topic", "\u5b50\u5f39\u65f6\u95f4", "19682821"], []], [["topic", "\u6539\u53d8", "19550814"], []], [["topic", "iPhone \u6e38\u620f\u5f00\u53d1", "19550810"], []], [["topic", "Sliverlight", "19626539"], []], [["topic", "\u4ea7\u54c1\u4f7f\u7528\u6280\u5de7", "19550805"], []], [["topic", "\u53e4\u57ce\u5899", "19772353"], []], [["topic", "\u559c\u65b0\u538c\u65e7", "19961804"], []], [["load", "\u52a0\u8f7d\u66f4\u591a", "19961804", "19776751"], []]]], "r": 0}
+*_*_*_*_*_*_*_*_*_
+getlist:set()
+*_*_*_*_*_*_*_*_*_*_
+posturl:https://www.zhihu.com/topic/19776749/organize/entire?child=19961804&parent=19776751
+html:{"msg": [["topic", "\u300c\u672a\u5f52\u7c7b\u300d\u8bdd\u9898", "19776751"], [[["topic", "\u591a\u6613\u62cd", "19961786"], []], [["topic", "\u5bb6\u535a\u4f1a", "19961792"], []], [["topic", "\u97e9\u56fd\u7f8e\u98df", "19961781"], []], [["topic", "\u597d\u533b\u53cb", "19961785"], []], [["topic", "\u80af\u00b7\u5a01\u5c14\u4f2f", "20042922"], []], [["topic", "Hask", "20042927"], []], [["topic", "\u8f6c\u57fa\u56e0\u778e\u626f", "20042898"], []], [["topic", "\u4e66\u7c4d\u6539\u7f16\u7535\u89c6\u5267", "20042902"], []], [["topic", "\u79d1\u5b66\u6559", "20042892"], []], [["topic", "\u8f6c\u57fa\u56e0\u653f\u7b56", "20042896"], []], [["load", "\u52a0\u8f7d\u66f4\u591a", "20042896", "19776751"], []]]], "r": 0}
+*_*_*_*_*_*_*_*_*_
+getlist:set()
+*_*_*_*_*_*_*_*_*_*_
+posturl:https://www.zhihu.com/topic/19776749/organize/entire?child=20042896&parent=19776751
+html:{"msg": [["topic", "\u300c\u672a\u5f52\u7c7b\u300d\u8bdd\u9898", "19776751"], [[["topic", "\u5efa\u7b51\u73af\u5883\u8bbe\u8ba1", "20042918"], []], [["topic", "\u8f6c\u57fa\u56e0\u5b66\u672f", "20042907"], []], [["topic", "\u8f6c\u57fa\u56e0\u6c34\u519b", "20042911"], []], [["topic", "\u6c47\u4ed8", "19669489"], []], [["topic", "\u6258\u6536", "19669494"], []], [["topic", "\u9886\u5bfc\u5e72\u90e8", "19669506"], []], [["topic", "\u867e\u7c73 Loop", "19669509"], []], [["topic", "Loop", "19669507"], []], [["topic", "\u8fdb\u51fa\u53e3\u4e13\u5458", "19761408"], []], [["topic", "\u63a2\u6208\uff08\u97f3\u4e50\uff09", "19761423"], []], [["load", "\u52a0\u8f7d\u66f4\u591a", "19761423", "19776751"], []]]], "r": 0}
+*_*_*_*_*_*_*_*_*_
+getlist:set()
+*_*_*_*_*_*_*_*_*_*_
+posturl:https://www.zhihu.com/topic/19776749/organize/entire?child=19761423&parent=19776751
+html:{"msg": [["topic", "\u300c\u672a\u5f52\u7c7b\u300d\u8bdd\u9898", "19776751"], [[["topic", "\u6dd8\u5b9d\u53cc\u5341\u4e00", "19761422"], []], [["topic", "\u65b0\u5174\u5b97\u6559", "20004540"], []], [["topic", "\u6c99\u8336\u9171", "20059176"], []], [["topic", "\u201c\u7cbe\u82f1\u201d\u7684\u72c2\u6b22", "20059189"], []], [["topic", "\u5b66\u79d1\u53f2", "19968556"], []], [["topic", "iOS7.1", "19968559"], []], [["topic", "\u5468\u4e00\u89c1", "19968547"], []], [["topic", "\u6b27\u7f8e\u5962\u534e\u5973\u88c5", "19968541"], []], [["topic", "\u7d2b\u5149\u62fc\u97f3", "19591644"], []], [["topic", "\u7269\u79cd\u8fc1\u5f99", "20059178"], []], [["load", "\u52a0\u8f7d\u66f4\u591a", "20059178", "19776751"], []]]], "r": 0}
+*_*_*_*_*_*_*_*_*_
+getlist:set()
+*_*_*_*_*_*_*_*_*_*_
+posturl:https://www.zhihu.com/topic/19776749/organize/entire?child=20059178&parent=19776751
+html:{"msg": [["topic", "\u300c\u672a\u5f52\u7c7b\u300d\u8bdd\u9898", "19776751"], [[["topic", "\u793e\u4ea4\u5e7f\u544a", "19662201"], []], [["topic", "\u542c\u8bf4\u8bfb\u5199", "20057799"], []], [["topic", "\u7f51\u7edc\u95ee\u653f", "19662190"], []], [["topic", "\u6076\u8da3\u5473", "19591654"], []], [["topic", "\u4e1c\u4e9a\u5c40\u52bf", "19662211"], []], [["topic", "\u5b89\u5353\u4f53\u9a8c", "19885165"], []], [["topic", "\u9f50\u5965\u8d5b\u65af\u5e93", "20059193"], []], [["topic", "\u5fc3\u667a", "19560570"], []], [["topic", "\u9762\u5305\u5e97", "19591664"], []], [["topic", "UCDChina", "19560562"], []], [["load", "\u52a0\u8f7d\u66f4\u591a", "19560562", "19776751"], []]]], "r": 0}
+*_*_*_*_*_*_*_*_*_
+getlist:set()
+*_*_*_*_*_*_*_*_*_*_
+posturl:https://www.zhihu.com/topic/19776749/organize/entire?child=19560562&parent=19776751
+html:{"msg": [["topic", "\u300c\u672a\u5f52\u7c7b\u300d\u8bdd\u9898", "19776751"], [[["topic", "\u5409\u5c14\u83ab.\u5fb7\u7f57.\u6258\u5c14", "20057787"], []], [["topic", "\u53f3\u8111", "19676345"], []], [["topic", "\u77ed\u65f6\u95f4", "19673970"], []], [["topic", "\u4ebf\u8d5e\u666e", "19793706"], []], [["topic", "\u94c1\u9053\u90e8\u8ba2\u7968", "19793705"], []], [["topic", "\u6dcb\u5df4\u7ed3", "19670128"], []], [["topic", "\u7f51\u8d39", "19670144"], []], [["topic", "\u7f51\u7edc\u6587\u5e93", "19793684"], []], [["topic", "\u70e4\u4e32", "19644359"], []], [["topic", "\u624b\u673a\u6545\u969c", "19592667"], []], [["load", "\u52a0\u8f7d\u66f4\u591a", "19592667", "19776751"], []]]], "r": 0}
+*_*_*_*_*_*_*_*_*_
+getlist:set()
+*_*_*_*_*_*_*_*_*_*_
+posturl:https://www.zhihu.com/topic/19776749/organize/entire?child=19592667&parent=19776751
+html:{"msg": [["topic", "\u300c\u672a\u5f52\u7c7b\u300d\u8bdd\u9898", "19776751"], [[["topic", "\u7fa4\u53d1\u77ed\u4fe1", "19592671"], []], [["topic", "\u62d6\u6b20\u5de5\u8d44", "19592658"], []], [["topic", "\u4e0a\u81ea\u4e60", "19862290"], []], [["topic", "\u62a4\u80a4\u7684", "19862293"], []], [["topic", "OUAT", "19810995"], []], [["topic", "Flash\u7a0b\u5e8f\u5f00\u53d1", "19762421"], []], [["topic", "\u6d41\u901a", "19597658"], []], [["topic", "\u8865\u950c", "19762732"], []], [["topic", "\u5c0f\u578b\u73b0\u573a", "20056815"], []], [["topic", "\u5a01\u6151", "20056827"], []], [["load", "\u52a0\u8f7d\u66f4\u591a", "20056827", "19776751"], []]]], "r": 0}
+*_*_*_*_*_*_*_*_*_
+getlist:set()
+*_*_*_*_*_*_*_*_*_*_
+posturl:https://www.zhihu.com/topic/19776749/organize/entire?child=20056827&parent=19776751
+html:
+*_*_*_*_*_*_*_*_*_
+getlist:set()
+*_*_*_*_*_*_*_*_*_*_
+posturl:https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19560891
+html:{"msg": [["topic", "\u4ea7\u4e1a", "19560891"], [[["topic", "\u4f53\u80b2\u4ea7\u4e1a", "19608504"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19608504"], []]]], [["topic", "\u6587\u5316\u4ea7\u4e1a", "19612883"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19612883"], []]]], [["topic", "\u7b2c\u4e00\u4ea7\u4e1a", "19836428"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19836428"], []]]], [["topic", "\u5de5\u4e1a", "19551603"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19551603"], []]]], [["topic", "\u7b2c\u4e09\u4ea7\u4e1a\uff08\u670d\u52a1\u4e1a\uff09", "19561087"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19561087"], []]]], [["topic", "\u4ea7\u4e1a\u89c4\u5212", "20011702"], []]]], "r": 0}
+*_*_*_*_*_*_*_*_*_
+getlist:{'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19561087', 'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19551603', 'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19836428', 'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19608504', 'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19612883'}
+*_*_*_*_*_*_*_*_*_*_
+posturl:https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19778298
+html:{"msg": [["topic", "\u300c\u5f62\u800c\u4e0a\u300d\u8bdd\u9898", "19778298"], [[["topic", "\u6b7b\u4ea1", "19555602"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19555602"], []]]], [["topic", "\u4eba", "19561047"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19561047"], []]]], [["topic", "\u9886\u57df", "19574302"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19574302"], []]]], [["topic", "\u6b63\u4e49", "19587736"], []], [["topic", "\u795e\u79d8", "19606286"], []], [["topic", "\u884c\u4e3a", "19573707"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19573707"], []]]], [["topic", "\u601d\u8003", "19551409"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19551409"], []]]], [["topic", "\u5173\u7cfb", "19559640"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19559640"], []]]], [["topic", "\u79e9\u5e8f", "19594058"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19594058"], []]]], [["topic", "\u771f\u7406", "19582856"], []], [["load", "\u52a0\u8f7d\u66f4\u591a", "19582856", "19778298"], []]]], "r": 0}
+*_*_*_*_*_*_*_*_*_
+getlist:{'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19551409', 'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19555602', 'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19561047', 'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19573707', 'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19559640', 'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19574302', 'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19594058'}
+*_*_*_*_*_*_*_*_*_*_
+posturl:https://www.zhihu.com/topic/19776749/organize/entire?child=19582856&parent=19778298
+html:{"msg": [["topic", "\u300c\u5f62\u800c\u4e0a\u300d\u8bdd\u9898", "19778298"], [[["topic", "\u7406\u8bba", "19552300"], []], [["topic", "\u601d\u60f3", "19560566"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19560566"], []]]], [["topic", "\u7cbe\u795e", "19566930"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19566930"], []]]], [["topic", "\u548c\u5e73", "19572177"], []], [["topic", "\u7a33\u5b9a", "19641078"], []], [["topic", "\u8d77\u6e90", "19553553"], []], [["topic", "\u73b0\u8c61", "19564032"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19564032"], []]]], [["topic", "\u6548\u7387", "19556677"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19556677"], []]]], [["topic", "\u6743", "20009363"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "20009363"], []]]], [["topic", "\u4ef7\u503c", "19561871"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19561871"], []]]], [["load", "\u52a0\u8f7d\u66f4\u591a", "19561871", "19778298"], []]]], "r": 0}
+*_*_*_*_*_*_*_*_*_
+getlist:{'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19566930', 'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=20009363', 'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19564032', 'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19561871', 'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19556677', 'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19560566'}
+*_*_*_*_*_*_*_*_*_*_
+posturl:https://www.zhihu.com/topic/19776749/organize/entire?child=19561871&parent=19778298
+html:{"msg": [["topic", "\u300c\u5f62\u800c\u4e0a\u300d\u8bdd\u9898", "19778298"], [[["topic", "\u89c2\u5ff5", "19571769"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19571769"], []]]], [["topic", "\u9053\u7406", "19585077"], []], [["topic", "\u5b58\u5728", "19643016"], []], [["topic", "\u9053", "19557039"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19557039"], []]]], [["topic", "\u601d\u7ef4", "19554285"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19554285"], []]]], [["topic", "\u610f\u4e49", "19563083"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19563083"], []]]], [["topic", "\u6743\u9650", "19617482"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19617482"], []]]], [["topic", "\u5206\u4eab", "19814766"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19814766"], []]]], [["topic", "\u6c38\u6052", "19629099"], []], [["topic", "\u9ed1\u6697", "19902305"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19902305"], []]]], [["load", "\u52a0\u8f7d\u66f4\u591a", "19902305", "19778298"], []]]], "r": 0}
+*_*_*_*_*_*_*_*_*_
+getlist:{'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19557039', 'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19571769', 'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19554285', 'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19617482', 'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19902305', 'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19814766', 'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19563083'}
+*_*_*_*_*_*_*_*_*_*_
+posturl:https://www.zhihu.com/topic/19776749/organize/entire?child=19902305&parent=19778298
+html:{"msg": [["topic", "\u300c\u5f62\u800c\u4e0a\u300d\u8bdd\u9898", "19778298"], [[["topic", "\u521b\u610f", "19556774"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19556774"], []]]], [["topic", "\u5883\u754c", "19575532"], []], [["topic", "\u865a\u65e0", "19636542"], []], [["topic", "\u62bd\u8c61", "19660166"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19660166"], []]]], [["topic", "\u90aa\u6076", "19729147"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19729147"], []]]], [["topic", "\u81ea\u7531", "19578134"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19578134"], []]]], [["topic", "\u4e16\u754c", "19566206"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19566206"], []]]], [["topic", "\u79d1\u5b66", "19612637"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19612637"], []]]], [["topic", "\u7ef4\u5ea6", "19567336"], []], [["topic", "\u7406\u6027", "19569579"], []], [["load", "\u52a0\u8f7d\u66f4\u591a", "19569579", "19778298"], []]]], "r": 0}
+*_*_*_*_*_*_*_*_*_
+getlist:{'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19729147', 'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19578134', 'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19556774', 'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19660166', 'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19566206', 'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19612637'}
+*_*_*_*_*_*_*_*_*_*_
+posturl:https://www.zhihu.com/topic/19776749/organize/entire?child=19569579&parent=19778298
+html:{"msg": [["topic", "\u300c\u5f62\u800c\u4e0a\u300d\u8bdd\u9898", "19778298"], [[["topic", "\u4fe1\u5ff5", "19584802"], []], [["topic", "\u903b\u8f91", "19556343"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19556343"], []]]], [["topic", "\u54f2\u5b66", "19551646"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19551646"], []]]], [["topic", "\u65f6\u95f4", "19553548"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19553548"], []]]]]], "r": 0}
+*_*_*_*_*_*_*_*_*_
+getlist:{'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19556343', 'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19553548', 'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19551646'}
+*_*_*_*_*_*_*_*_*_*_
+posturl:https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19778317
+html:{"msg": [["topic", "\u751f\u6d3b\u3001\u827a\u672f\u3001\u6587\u5316\u4e0e\u6d3b\u52a8", "19778317"], [[["topic", "\u8fd0\u52a8", "19552706"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19552706"], []]]], [["topic", "\u5a31\u4e50", "19553632"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19553632"], []]]], [["topic", "\u6d3b\u52a8", "19563502"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19563502"], []]]], [["topic", "\u4f11\u95f2", "19555427"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19555427"], []]]], [["topic", "\u5b97\u6559", "19570783"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19570783"], []]]], [["topic", "\u611f\u53d7", "19555984"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19555984"], []]]], [["topic", "\u5730\u7406", "19553622"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19553622"], []]]], [["topic", "\u751f\u6d3b", "19551147"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19551147"], []]]], [["topic", "\u804c\u4e1a\u53d1\u5c55", "19554825"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19554825"], []]]], [["topic", "\u611f\u60c5", "19554791"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19554791"], []]]], [["load", "\u52a0\u8f7d\u66f4\u591a", "19554791", "19778317"], []]]], "r": 0}
+*_*_*_*_*_*_*_*_*_
+getlist:{'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19553632', 'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19552706', 'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19563502', 'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19555984', 'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19555427', 'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19554825', 'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19553622', 'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19554791', 'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19551147', 'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19570783'}
+*_*_*_*_*_*_*_*_*_*_
+posturl:https://www.zhihu.com/topic/19776749/organize/entire?child=19554791&parent=19778317
+html:{"msg": [["topic", "\u751f\u6d3b\u3001\u827a\u672f\u3001\u6587\u5316\u4e0e\u6d3b\u52a8", "19778317"], [[["topic", "\u97f3\u4e50", "19550453"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19550453"], []]]], [["topic", "\u4fe1\u4ef0", "19556031"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19556031"], []]]], [["topic", "\u6536\u85cf", "19563902"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19563902"], []]]], [["topic", "\u8ba4\u77e5", "19573247"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19573247"], []]]], [["topic", "\u6280\u672f", "19550912"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19550912"], []]]], [["topic", "\u4f53\u9a8c", "19561382"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19561382"], []]]], [["topic", "\u827a\u672f", "19550434"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19550434"], []]]], [["topic", "\u6587\u5316", "19552266"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19552266"], []]]], [["topic", "\u5386\u53f2", "19551077"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19551077"], []]]], [["topic", "\u4ea4\u901a", "19557401"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19557401"], []]]], [["load", "\u52a0\u8f7d\u66f4\u591a", "19557401", "19778317"], []]]], "r": 0}
+*_*_*_*_*_*_*_*_*_
+getlist:{'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19573247', 'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19563902', 'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19556031', 'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19550912', 'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19557401', 'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19550434', 'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19552266', 'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19551077', 'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19561382', 'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19550453'}
+*_*_*_*_*_*_*_*_*_*_
+posturl:https://www.zhihu.com/topic/19776749/organize/entire?child=19557401&parent=19778317
+html:{"msg": [["topic", "\u751f\u6d3b\u3001\u827a\u672f\u3001\u6587\u5316\u4e0e\u6d3b\u52a8", "19778317"], [[["topic", "\u653f\u6cbb\u4e0e\u6cd5\u5f8b", "19793721"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19793721"], []]]]]], "r": 0}
+*_*_*_*_*_*_*_*_*_
+getlist:{'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19793721'}
+*_*_*_*_*_*_*_*_*_*_
+posturl:https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19778287
+html:{"msg": [["topic", "\u5b9e\u4f53", "19778287"], [[["topic", "\u5de5\u5177", "19553376"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19553376"], []]]], [["topic", "\u4e66\u7c4d", "19553713"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19553713"], []]]], [["topic", "\u5b87\u5b99", "19620787"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19620787"], []]]], [["topic", "\u7269\u8d28", "19612858"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19612858"], []]]], [["topic", "\u793e\u4f1a", "19566933"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19566933"], []]]], [["topic", "\u4eba", "19561047"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19561047"], []]]], [["topic", "\u4ea7\u54c1", "19552131"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19552131"], []]]], [["topic", "\u98df\u7269", "19552062"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19552062"], []]]], [["topic", "\u81ea\u7136", "19553627"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19553627"], []]]], [["topic", "\u7269\u54c1", "19878769"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19878769"], []]]], [["load", "\u52a0\u8f7d\u66f4\u591a", "19878769", "19778287"], []]]], "r": 0}
+*_*_*_*_*_*_*_*_*_
+getlist:{'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19553713', 'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19878769', 'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19552131', 'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19612858', 'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19553627', 'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19553376', 'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19566933', 'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19561047', 'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19620787', 'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19552062'}
+*_*_*_*_*_*_*_*_*_*_
+posturl:https://www.zhihu.com/topic/19776749/organize/entire?child=19878769&parent=19778287
+html:{"msg": [["topic", "\u5b9e\u4f53", "19778287"], [[["topic", "\u89d2\u8272", "19701679"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19701679"], []]]], [["topic", "\u751f\u6d3b\u7528\u54c1", "19647124"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19647124"], []]]], [["topic", "\u7ec4\u7ec7\u4e0e\u673a\u6784", "19565798"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19565798"], []]]], [["topic", "\u751f\u7269", "19812101"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19812101"], []]]], [["topic", "\u5546\u54c1", "19584724"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19584724"], []]]], [["topic", "\u5b9e\u7528\u5de5\u5177", "19960210"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19960210"], []]]]]], "r": 0}
+*_*_*_*_*_*_*_*_*_
+getlist:{'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19584724', 'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19812101', 'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19647124', 'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19565798', 'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19960210', 'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19701679'}
+*_*_*_*_*_*_*_*_*_*_
+posturl:https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19618774
+html:{"msg": [["topic", "\u5b66\u79d1", "19618774"], [[["topic", "\u793e\u4f1a\u79d1\u5b66", "19551971"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19551971"], []]]], [["topic", "\u81ea\u7136\u79d1\u5b66", "19553298"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19553298"], []]]], [["topic", "\u5f62\u5f0f\u79d1\u5b66", "19744646"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19744646"], []]]], [["topic", "\u4eba\u6587\u5b66\u79d1", "19649905"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19649905"], []]]], [["topic", "\u6280\u672f\u4e0e\u5e94\u7528\u79d1\u5b66", "19778273"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19778273"], []]]]]], "r": 0}
+*_*_*_*_*_*_*_*_*_
+getlist:{'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19649905', 'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19778273', 'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19551971', 'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19553298', 'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19744646'}
+*_*_*_*_*_*_*_*_*_*_
+posturl:https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19776751
+html:{"msg": [["topic", "\u300c\u672a\u5f52\u7c7b\u300d\u8bdd\u9898", "19776751"], [[["topic", "\u76d2\u996d", "19690251"], []], [["topic", "\u521b\u610f\u96c6\u8d44", "19653521"], []], [["topic", "\u7eff\u690d", "19998191"], []], [["topic", "solo", "19672863"], []], [["topic", "\u51fa\u6e38", "19639327"], []], [["topic", "\u5546\u52a1\u9009\u8d2d", "20049927"], []], [["topic", "\u65af\u514b\u91cc\u4e9a\u5bbe", "20049905"], []], [["topic", "\u4e2d\u690d\u7cfb", "20049901"], []], [["topic", "\u9f99\u86c7\u6f14\u4e49", "20049914"], []], [["load", "\u52a0\u8f7d\u66f4\u591a", "20049914", "19776751"], []]]], "r": 0}
+*_*_*_*_*_*_*_*_*_
+getlist:set()
+*_*_*_*_*_*_*_*_*_*_
+posturl:https://www.zhihu.com/topic/19776749/organize/entire?child=20049914&parent=19776751
+html:{"msg": [["topic", "\u300c\u672a\u5f52\u7c7b\u300d\u8bdd\u9898", "19776751"], [[["topic", "\u5403\u918b", "19804523"], []], [["topic", "\u6f14\u8bf4", "19878531"], []], [["topic", "\u5546\u5bb6", "19629695"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19629695"], []]]], [["topic", "\u6a21\u578b\u68c0\u6d4b", "20037185"], []], [["topic", "\u8bf4\u6cd5", "19822457"], []], [["topic", "\u4f4e\u4ef7\u7535\u5f71\u7968", "20039971"], []], [["topic", "\u751f\u7269\u53cd\u5e94\u5668", "20039963"], []], [["topic", "\u8f6c\u57fa\u56e0\u836f\u54c1", "20039961"], []], [["topic", "\u4eba\u4f53\u89e3\u5256", "20039964"], []], [["topic", "winchat", "20039957"], []], [["load", "\u52a0\u8f7d\u66f4\u591a", "20039957", "19776751"], []]]], "r": 0}
+*_*_*_*_*_*_*_*_*_
+getlist:{'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19629695'}
+*_*_*_*_*_*_*_*_*_*_
+posturl:https://www.zhihu.com/topic/19776749/organize/entire?child=20039957&parent=19776751
+html:{"msg": [["topic", "\u300c\u672a\u5f52\u7c7b\u300d\u8bdd\u9898", "19776751"], [[["topic", "\u5c0f\u672c\u6295\u8d44", "20039960"], []], [["topic", "major incident", "20039958"], []], [["topic", "\u5317\u8fb0\u533a", "20045843"], []], [["topic", "\u80a1\u707e", "20045842"], []], [["topic", "\u94a2\u7434\u6f14\u594f", "20045831"], []], [["topic", "syscall", "20045826"], []], [["topic", "\u6cb3\u5317\u533a", "20045852"], []], [["topic", "\u4e2d\u8001\u5e74\u8bdd\u9898", "19843421"], []], [["topic", "\u5317\u4eac\u5929\u4f7f\u5408\u5531\u56e2", "20042485"], []], [["topic", "\u6865\u5934\u5821\u5efa\u8bbe", "20042492"], []], [["load", "\u52a0\u8f7d\u66f4\u591a", "20042492", "19776751"], []]]], "r": 0}
+*_*_*_*_*_*_*_*_*_
+getlist:set()
+*_*_*_*_*_*_*_*_*_*_
+posturl:https://www.zhihu.com/topic/19776749/organize/entire?child=20042492&parent=19776751
+html:{"msg": [["topic", "\u300c\u672a\u5f52\u7c7b\u300d\u8bdd\u9898", "19776751"], [[["topic", "infosys", "19969472"], []], [["topic", "\u5b89\u5353\u624b\u673a\u6e38\u620f", "19615858"], []], [["topic", "\u56fd\u9645\u9752\u5e74\u65c5\u820d", "19843841"], []], [["topic", "\u5efa\u7b51\u989c\u8272", "19967464"], []], [["topic", "\u62d6\u62fd", "19579525"], []], [["topic", "\u7535\u89c6\u5267\u63d2\u66f2", "19880632"], []], [["topic", "\u5b89\u667a\u5e02\u573a", "19617522"], []], [["topic", "\u6dd8\u5b9d\u5e97\u94fa\u6444\u5f71", "19617502"], []], [["topic", "\u625b\u997f", "20053178"], []], [["topic", "\u9014\u98ce\u7f51", "20053181"], []], [["load", "\u52a0\u8f7d\u66f4\u591a", "20053181", "19776751"], []]]], "r": 0}
+*_*_*_*_*_*_*_*_*_
+getlist:set()
+*_*_*_*_*_*_*_*_*_*_
+posturl:https://www.zhihu.com/topic/19776749/organize/entire?child=20053181&parent=19776751
+html:{"msg": [["topic", "\u300c\u672a\u5f52\u7c7b\u300d\u8bdd\u9898", "19776751"], [[["topic", "\u6469\u65af\u7801", "20053171"], []], [["topic", "\u4eca\u665a80\u540e\u8131\u53e3\u79c0", "20053175"], []], [["topic", "\u53d7\u9650\u8bdd\u9898", "20053195"], []], [["topic", "\u534e\u9634\u8001\u8154", "20053184"], []], [["topic", "\u897f\u65b9\u97f3\u4e50", "20053189"], []], [["topic", "\u4e0d\u77e5\u9053\u5728\u95ee\u4ec0\u4e48", "20053200"], []], [["topic", "\u79c0\u8272", "20053202"], []], [["topic", "\u6e20\u9053256", "20052579"], []], [["topic", "\u780c\u5899", "20052571"], []], [["topic", "\u76f4\u64ad\u8425\u9500", "20052568"], []], [["load", "\u52a0\u8f7d\u66f4\u591a", "20052568", "19776751"], []]]], "r": 0}
+*_*_*_*_*_*_*_*_*_
+getlist:set()
+*_*_*_*_*_*_*_*_*_*_
+posturl:https://www.zhihu.com/topic/19776749/organize/entire?child=20052568&parent=19776751
+html:{"msg": [["topic", "\u300c\u672a\u5f52\u7c7b\u300d\u8bdd\u9898", "19776751"], [[["topic", "\u5927\u8fde\u5927\u5b66", "20052567"], []], [["topic", "\u7389\u6797\u72d7\u8089\u8282", "20052559"], []], [["topic", "\u76d7\u7248\u7528\u6237\u53d7\u5bb3\u8005", "20052554"], []], [["topic", "2016NBA\u9009\u79c0", "20052550"], []], [["topic", "\u8c46\u74e3\u5c0f\u4e8b", "20054737"], []], [["topic", "duo.js", "20054740"], []], [["topic", "\u4e13\u4fee", "20054729"], []], [["topic", "\u56fd\u9645\u6d77\u6d0b\u6cd5\u516c\u7ea6", "20054734"], []], [["topic", "\u5510\u52aa\u4e4c\u6881\u6d77", "20054715"], []], [["topic", "\u5916\u5174\u5b89\u5cad", "20054717"], []], [["load", "\u52a0\u8f7d\u66f4\u591a", "20054717", "19776751"], []]]], "r": 0}
+*_*_*_*_*_*_*_*_*_
+getlist:set()
+*_*_*_*_*_*_*_*_*_*_
+posturl:https://www.zhihu.com/topic/19776749/organize/entire?child=20054717&parent=19776751
+html:{"msg": [["topic", "\u300c\u672a\u5f52\u7c7b\u300d\u8bdd\u9898", "19776751"], [[["topic", "\u518d\u7248", "19655562"], []], [["topic", "\u751f\u6d3b\u7684\u611f\u609f", "19849033"], []], [["topic", "\u51ac\u5b63\u5965\u8fd0\u4f1a", "19941902"], []], [["topic", "\u8de8\u56fd\u6d17\u811a", "20017800"], []], [["topic", "\u7f51\u8d44\u8fd0\u4f5c", "19966496"], []], [["topic", "\u624b\u673a\u57fa\u7ad9", "19895461"], []], [["topic", "\u57fa\u4e8e\u65f6\u5e8f\u80cc\u666f\u4e0b\u7684\u4eba\u751f\u56de\u6d4b\u62a5\u544a", "20055408"], []], [["topic", "\u6ce8\u518c\u8d26\u6237", "20055414"], []], [["topic", "ustwo", "20055415"], []], [["topic", "\u53d1\u5c0f", "20055405"], []], [["load", "\u52a0\u8f7d\u66f4\u591a", "20055405", "19776751"], []]]], "r": 0}
+*_*_*_*_*_*_*_*_*_
+getlist:set()
+*_*_*_*_*_*_*_*_*_*_
+posturl:https://www.zhihu.com/topic/19776749/organize/entire?child=20055405&parent=19776751
+html:{"msg": [["topic", "\u300c\u672a\u5f52\u7c7b\u300d\u8bdd\u9898", "19776751"], [[["topic", "\u64ae\u5408\u5a5a\u59fb", "20055420"], []], [["topic", "\u62fe\u97f3\u5668", "19665657"], []], [["topic", "\u6570\u636e\u5171\u4eab", "20020476"], []], [["topic", "\u56fd\u738b\u7684\u4eba\u9a6c", "20059349"], []], [["topic", "\u5ba2\u6d41\u5206\u6790", "20059340"], []], [["topic", "\u793e\u4f1a\u515a", "20059346"], []], [["topic", "\u8d24\u8005\u4e4b\u7231\uff08\u8ce2\u8005\u306e\u611b\uff09", "20059343"], []], [["topic", "\u6c34\u751f\u6001", "20059328"], []], [["topic", "RPG maker", "20059326"], []], [["topic", "\u8c03\u97f3", "19805574"], []], [["load", "\u52a0\u8f7d\u66f4\u591a", "19805574", "19776751"], []]]], "r": 0}
+*_*_*_*_*_*_*_*_*_
+getlist:set()
+*_*_*_*_*_*_*_*_*_*_
+posturl:https://www.zhihu.com/topic/19776749/organize/entire?child=19805574&parent=19776751
+html:{"msg": [["topic", "\u300c\u672a\u5f52\u7c7b\u300d\u8bdd\u9898", "19776751"], [[["topic", "\u5200\u5251 OL", "19682582"], []], [["topic", "\u6469\u65c5", "19813481"], []], [["topic", "\u5c97\u4f4d", "19606400"], []], [["topic", "\u65b0\u4e16\u7eaa\u97f3\u4e50", "19799846"], []], [["topic", "\u5723\u8bde\u524d\u591c", "20035321"], []], [["topic", "Pair", "19684599"], []], [["topic", "\u5bff\u9669", "19831685"], []], [["topic", "cowon", "19828503"], []], [["topic", "\u62c6\u4e66\u5e2e", "20016237"], []], [["topic", "\u81ea\u5632\u7cbe\u795e", "19797791"], []], [["load", "\u52a0\u8f7d\u66f4\u591a", "19797791", "19776751"], []]]], "r": 0}
+*_*_*_*_*_*_*_*_*_
+getlist:set()
+*_*_*_*_*_*_*_*_*_*_
+posturl:https://www.zhihu.com/topic/19776749/organize/entire?child=19797791&parent=19776751
+html:{"msg": [["topic", "\u300c\u672a\u5f52\u7c7b\u300d\u8bdd\u9898", "19776751"], [[["topic", "\u56fd\u7535\u6295", "20018448"], []], [["topic", "\u793e\u4f1a\u5b66\u751f", "20010307"], []], [["topic", "\u9884\u4ed8\u5361", "19758864"], []], [["topic", "\u8212\u4f2f\u4e50", "20007638"], []], [["topic", "\u795e\u7ecf\u8d28", "19666864"], []], [["topic", "\u7f51\u7edc\u521b\u4e16\u7eaa", "19811361"], []], [["topic", "\u5185\u5e55", "19591294"], []], [["topic", "\u8ba4\u77e5\u76c8\u4f59", "19679907"], []], [["topic", "\u76d7\u7a83", "19591296"], []], [["topic", "\u624b\u673a\u5730\u56fe", "19598216"], []], [["load", "\u52a0\u8f7d\u66f4\u591a", "19598216", "19776751"], []]]], "r": 0}
+*_*_*_*_*_*_*_*_*_
+getlist:set()
+*_*_*_*_*_*_*_*_*_*_
+posturl:https://www.zhihu.com/topic/19776749/organize/entire?child=19598216&parent=19776751
+html:{"msg": [["topic", "\u300c\u672a\u5f52\u7c7b\u300d\u8bdd\u9898", "19776751"], [[["topic", "\u6d17\u4e1c\u897f", "20045387"], []], [["topic", "Window", "19781727"], []], [["topic", "\u7b54\u7591\u89e3\u60d1", "19893000"], []], [["topic", "Mircosoft", "19602124"], []], [["topic", "\u6027\u53d8\u6001", "19680887"], []], [["topic", "\u5c0f\u718a\u5f71\u89c6", "19730505"], []], [["topic", "\u7ad9\u7fa4", "19608794"], []], [["topic", "\u97e9\u5a31", "19916673"], []], [["topic", "SEO \u51fa\u8def", "19612652"], []], [["topic", "\u53d1\u884c\u6e20\u9053", "19612661"], []], [["load", "\u52a0\u8f7d\u66f4\u591a", "19612661", "19776751"], []]]], "r": 0}
+*_*_*_*_*_*_*_*_*_
+getlist:set()
+*_*_*_*_*_*_*_*_*_*_
+posturl:https://www.zhihu.com/topic/19776749/organize/entire?child=19612661&parent=19776751
+html:{"msg": [["topic", "\u300c\u672a\u5f52\u7c7b\u300d\u8bdd\u9898", "19776751"], [[["topic", "Design", "19612645"], []], [["topic", "\u6652\u7c73\u82b1", "19612648"], []], [["topic", "\u8fea\u9a6c\u5229\u4e9a", "20006866"], []], [["topic", "\u5f3a\u8005", "19989233"], []], [["topic", "\u6280\u672f\u8bba\u575b", "19571053"], []], [["topic", "\u7cbe\u795e\u6b8b\u75be", "20028902"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "20028902"], []]]], [["topic", "\u767e\u5c81", "20043550"], []], [["topic", "\u90a6\u5c3c\u5154", "20043554"], []], [["topic", "\u5bcc\u91ce\u7531\u60a0\u5b63", "20043572"], []], [["topic", "\u65e0\u6881\u6bbf", "20028894"], []], [["load", "\u52a0\u8f7d\u66f4\u591a", "20028894", "19776751"], []]]], "r": 0}
+*_*_*_*_*_*_*_*_*_
+getlist:{'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=20028902'}
+*_*_*_*_*_*_*_*_*_*_
+posturl:https://www.zhihu.com/topic/19776749/organize/entire?child=20028894&parent=19776751
+html:{"msg": [["topic", "\u300c\u672a\u5f52\u7c7b\u300d\u8bdd\u9898", "19776751"], [[["topic", "\u94b1\u591a\u591a", "20043566"], []], [["topic", "\u5927\u4fdd\u9556", "20043582"], []], [["topic", "\u6587\u7ae0\u4f1a", "20043583"], []], [["topic", "adaptive control", "20031173"], []], [["topic", "\u63a7\u5236\u5668\u8bbe\u8ba1", "20031169"], []], [["topic", "LTC", "19842393"], []], [["topic", "\u4e2d\u592e\u7f8e\u9662", "19842394"], []], [["topic", "\u708e\u6027\u4e18", "20031162"], []], [["topic", "sqlserver", "19694382"], []], [["topic", "\u6297\u84dd\u5149", "20031177"], []], [["load", "\u52a0\u8f7d\u66f4\u591a", "20031177", "19776751"], []]]], "r": 0}
+*_*_*_*_*_*_*_*_*_
+getlist:set()
+*_*_*_*_*_*_*_*_*_*_
+posturl:https://www.zhihu.com/topic/19776749/organize/entire?child=20031177&parent=19776751
+html:{"msg": [["topic", "\u300c\u672a\u5f52\u7c7b\u300d\u8bdd\u9898", "19776751"], [[["topic", "\u7f51\u70b9", "19574027"], []], [["topic", "\u5728\u7ebf\u5e7f\u64ad", "19577824"], []], [["topic", "\u533a\u53f7", "19577835"], []], [["topic", "\u901a\u8bdd", "19577833"], []], [["topic", "\u4e1c\u65b9\u7279\u9171", "19911351"], []], [["topic", "\u65c5\u884c\u8005", "19676414"], []], [["topic", "\u6c34\u6e90", "19600835"], []], [["topic", "\u653f\u6cbb\u8bfe", "19665877"], []], [["topic", "\u65c5\u6e38\u7eaa\u5ff5\u54c1", "19789914"], []], [["topic", "\u6cd5\u4eba\u4ee3\u8868", "19789901"], []], [["load", "\u52a0\u8f7d\u66f4\u591a", "19789901", "19776751"], []]]], "r": 0}
+*_*_*_*_*_*_*_*_*_
+getlist:set()
+*_*_*_*_*_*_*_*_*_*_
+posturl:https://www.zhihu.com/topic/19776749/organize/entire?child=19789901&parent=19776751
+html:{"msg": [["topic", "\u300c\u672a\u5f52\u7c7b\u300d\u8bdd\u9898", "19776751"], [[["topic", "\u6d88\u97f3\u5668", "19676431"], []], [["topic", "\u522e\u75e7", "19586856"], []], [["topic", "\u98df\u7269\u52a0\u70ed", "19814061"], []], [["topic", "\u795e\u7ea7\u63d0\u95ee", "20046700"], []], [["topic", "\u8346\u95e8\u9a6c\u62c9\u677e", "20046698"], []], [["topic", "Apache license", "20046692"], []], [["topic", "\u5feb\u9012\u5c0f\u54e5\u88ab\u6253", "20046697"], []], [["topic", "\u7687\u4eb2\u56fd\u621a", "20046696"], []], [["topic", "\u53f0\u6e7e\u8bc8\u9a97", "20046681"], []], [["topic", "\u4e09\u7687\u4e94\u5e1d", "20046688"], []], [["load", "\u52a0\u8f7d\u66f4\u591a", "20046688", "19776751"], []]]], "r": 0}
+*_*_*_*_*_*_*_*_*_
+getlist:set()
+*_*_*_*_*_*_*_*_*_*_
+posturl:https://www.zhihu.com/topic/19776749/organize/entire?child=20046688&parent=19776751
+html:{"msg": [["topic", "\u300c\u672a\u5f52\u7c7b\u300d\u8bdd\u9898", "19776751"], [[["topic", "\u5c27\u821c\u79b9", "20046686"], []], [["topic", "\u5b63\u5b50\u5e7f\u573a", "20000661"], []], [["topic", "\u7f51\u4e0a\u62a5\u540d", "20000656"], []], [["topic", "\u7ebf\u4e0a\u62a5\u540d", "20000665"], []], [["topic", "\u7f51\u9875\u4f18\u5316", "19581824"], []], [["topic", "\u4f01\u4e1a\u73af\u5883", "20000653"], []], [["topic", "Xcode Instruments", "20000651"], []], [["topic", "\u9ad8\u624b", "19581808"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19581808"], []]]], [["topic", "\u6743\u529b\u6597\u4e89", "19739587"], []], [["topic", "\u7535\u8111\u5e97", "19970219"], []], [["load", "\u52a0\u8f7d\u66f4\u591a", "19970219", "19776751"], []]]], "r": 0}
+*_*_*_*_*_*_*_*_*_
+getlist:{'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19581808'}
+*_*_*_*_*_*_*_*_*_*_
+posturl:https://www.zhihu.com/topic/19776749/organize/entire?child=19970219&parent=19776751
+html:{"msg": [["topic", "\u300c\u672a\u5f52\u7c7b\u300d\u8bdd\u9898", "19776751"], [[["topic", "\u4eba\u683c\u675f\u7f1a", "19970218"], []], [["topic", "\u5ca9\u68c9\u677f", "19970233"], []], [["topic", "\u5168\u65e5\u5236\u4e13\u79d1", "19970238"], []], [["topic", "\u6c89\u6eba", "19970223"], []], [["topic", "\u6c34\u6c9f\u76d6", "19970228"], []], [["topic", "\u7535\u4fe1\u7f51\u7edc\u6240\u4f20\u8f93\u4fe1\u606f\u7684\u5185\u5bb9", "19970242"], []], [["topic", "\u7f51\u7ad9\u7f8e\u5de5", "19738162"], []], [["topic", "\u7ed8\u753b\u672c", "19834720"], []], [["topic", "\u6539\u7f16\u7535\u5f71", "20023931"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "20023931"], []]]], [["topic", "\u90e8\u957f", "19755662"], []], [["load", "\u52a0\u8f7d\u66f4\u591a", "19755662", "19776751"], []]]], "r": 0}
+*_*_*_*_*_*_*_*_*_
+getlist:{'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=20023931'}
+*_*_*_*_*_*_*_*_*_*_
+posturl:https://www.zhihu.com/topic/19776749/organize/entire?child=19755662&parent=19776751
+html:{"msg": [["topic", "\u300c\u672a\u5f52\u7c7b\u300d\u8bdd\u9898", "19776751"], [[["topic", "\u5fc3\u91cc\u6d3b\u52a8", "20020663"], []], [["topic", "\u96e8\u6e2f\u57fa\u9686", "20020644"], []], [["topic", "\u9e70\u773c", "19999135"], []], [["topic", "\u4e2a\u4eba\u4ee3\u7f34", "19999139"], []], [["topic", "\u5fae\u4fe1\u5b9d", "19999144"], []], [["topic", "\u51b7\u67dc", "19999152"], []], [["topic", "sleep", "19711716"], []], [["topic", "\u987a\u4e30O2O", "19999159"], []], [["topic", "\u5851\u7f8e\u6781", "19999157"], []], [["topic", "\u6298\u5c04", "19623693"], []], [["load", "\u52a0\u8f7d\u66f4\u591a", "19623693", "19776751"], []]]], "r": 0}
+*_*_*_*_*_*_*_*_*_
+getlist:set()
+*_*_*_*_*_*_*_*_*_*_
+posturl:https://www.zhihu.com/topic/19776749/organize/entire?child=19623693&parent=19776751
+html:{"msg": [["topic", "\u300c\u672a\u5f52\u7c7b\u300d\u8bdd\u9898", "19776751"], [[["topic", "\u9f13\u66f2", "20051315"], []], [["topic", "\u505c\u7535", "19635138"], []], [["topic", "\u8364\u83dc", "20051310"], []], [["topic", "\u91ce\u751f\u52a8\u7269\u4fdd\u62a4", "20051305"], []], [["topic", "55\u5e74\u4f53\u5236", "20051297"], []], [["topic", "\u6b63\u65b9\u6559\u52a1\u7cfb\u7edf", "20051296"], []], [["topic", "\u7325\u7410\u7537", "19635113"], []], [["topic", "\u4ea7\u54c1\u6587\u6863", "19635110"], []], [["topic", "\u5de5\u5b66\u574a", "19635129"], []], [["topic", "\u7236\u6bcd\u540c\u4f4f", "20051321"], []], [["load", "\u52a0\u8f7d\u66f4\u591a", "20051321", "19776751"], []]]], "r": 0}
+*_*_*_*_*_*_*_*_*_
+getlist:set()
+*_*_*_*_*_*_*_*_*_*_
+posturl:https://www.zhihu.com/topic/19776749/organize/entire?child=20051321&parent=19776751
+html:{"msg": [["topic", "\u300c\u672a\u5f52\u7c7b\u300d\u8bdd\u9898", "19776751"], [[["topic", "\u6559\u80b2\u6c34\u5e73", "20051319"], []], [["topic", "\u65e5\u5e38\u62a4\u7406", "19922410"], []], [["topic", "\u7535\u74f6", "19652919"], []], [["topic", "\u4f11\u95f2\u886c\u886b", "19889221"], []], [["topic", "\u6cdb\u751f\u7269\u4fe1\u606f", "19655057"], []], [["topic", "\u68a8\u82b1\u516c\u793e", "20038691"], []], [["topic", "YYP", "20060004"], []], [["topic", "\u7ae5\u8d85\u8bc8\u9a97", "20038676"], []], [["topic", "\u767d\u82bd\u5947\u5170", "20038685"], []], [["topic", "\u4e66\u53cb", "20038688"], []], [["load", "\u52a0\u8f7d\u66f4\u591a", "20038688", "19776751"], []]]], "r": 0}
+*_*_*_*_*_*_*_*_*_
+getlist:set()
+*_*_*_*_*_*_*_*_*_*_
+posturl:https://www.zhihu.com/topic/19776749/organize/entire?child=20038688&parent=19776751
+html:{"msg": [["topic", "\u300c\u672a\u5f52\u7c7b\u300d\u8bdd\u9898", "19776751"], [[["topic", "\u6d17\u8111\u672f", "20038675"], []], [["topic", "\u89e3\u9898\u601d\u8def", "19819722"], []], [["topic", "\u7a74\u9053", "19819713"], []], [["topic", "DNS \u89e3\u6790", "19819717"], []], [["topic", "\u7ec5\u58eb", "19621151"], []], [["topic", "\u8bb0\u5e10", "19621136"], []], [["topic", "\u5e94\u5bf9\u653b\u51fb", "19621141"], []], [["topic", "\u9500\u552e\u90e8", "19727368"], []], [["topic", "\u74f6\u76d6", "19630988"], []], [["topic", "\u56e2\u8d2d\u7ba1\u7406", "19630982"], []], [["load", "\u52a0\u8f7d\u66f4\u591a", "19630982", "19776751"], []]]], "r": 0}
+*_*_*_*_*_*_*_*_*_
+getlist:set()
+*_*_*_*_*_*_*_*_*_*_
+posturl:https://www.zhihu.com/topic/19776749/organize/entire?child=19630982&parent=19776751
+html:{"msg": [["topic", "\u300c\u672a\u5f52\u7c7b\u300d\u8bdd\u9898", "19776751"], [[["topic", "ER\u56fe", "19630983"], []], [["topic", "\u6280\u672f\u5165\u80a1", "19812500"], []], [["topic", "\u9646\u5146\u79a7", "19820324"], []], [["topic", "\u6279\u53d1\u5e02\u573a", "19820319"], []], [["topic", "\u5e27\u6570", "19770476"], []], [["topic", "\u5de5\u7b7e", "20040481"], []], [["topic", "\u6570\u7535", "20040483"], []], [["topic", "\u949b\u767d\u7c89", "19771799"], []], [["topic", "\u4e9e\u6d32", "20040499"], []], [["topic", "\u684c\u9762\u97f3\u54cd", "19647780"], []], [["load", "\u52a0\u8f7d\u66f4\u591a", "19647780", "19776751"], []]]], "r": 0}
+*_*_*_*_*_*_*_*_*_
+getlist:set()
+*_*_*_*_*_*_*_*_*_*_
+posturl:https://www.zhihu.com/topic/19776749/organize/entire?child=19647780&parent=19776751
+html:{"msg": [["topic", "\u300c\u672a\u5f52\u7c7b\u300d\u8bdd\u9898", "19776751"], [[["topic", "\u5b89\u5353\u4e50\u56ed", "19647789"], []], [["topic", "\u89c6\u89c9\u9519\u8bef", "19647797"], []], [["topic", "\u9a6c\u5f69\u4e91", "20042391"], []], [["topic", "SNH4", "20042386"], []], [["topic", "\u5c3f\u9178\u9ad8", "19891739"], []], [["topic", "\u897f\u54f2", "20042382"], []], [["topic", "\u4e8c\u4ee3\u8eab\u4efd\u8bc1", "20042363"], []], [["topic", "\u8f6f\u4ef6\u4ecb\u7ecd", "19580068"], []], [["topic", "\u865a\u62df\u7f51\u6e38", "19656654"], []], [["topic", "\u795e\u534e", "19580086"], []], [["load", "\u52a0\u8f7d\u66f4\u591a", "19580086", "19776751"], []]]], "r": 0}
+*_*_*_*_*_*_*_*_*_
+getlist:set()
+*_*_*_*_*_*_*_*_*_*_
+posturl:https://www.zhihu.com/topic/19776749/organize/entire?child=19580086&parent=19776751
+html:{"msg": [["topic", "\u300c\u672a\u5f52\u7c7b\u300d\u8bdd\u9898", "19776751"], [[["topic", "Julia", "19656634"], []], [["topic", "Titanium", "19656637"], []], [["topic", "\u624b\u673a\u6444\u50cf", "19856404"], []], [["topic", "BMX", "19719144"], []], [["topic", "\u5373\u70ed\u5f0f", "20040701"], []], [["topic", "\u4e5d\u5927\u5458", "20040705"], []], [["topic", "\u6fc0\u52b1\u673a\u5236", "19646201"], []], [["topic", "\u81ea\u52a8\u5173\u6ce8", "20040682"], []], [["topic", "HCE", "20040675"], []], [["topic", "\u821f\u5c71\u516c\u52a1\u5458", "20040680"], []], [["load", "\u52a0\u8f7d\u66f4\u591a", "20040680", "19776751"], []]]], "r": 0}
+*_*_*_*_*_*_*_*_*_
+getlist:set()
+*_*_*_*_*_*_*_*_*_*_
+posturl:https://www.zhihu.com/topic/19776749/organize/entire?child=20040680&parent=19776751
+html:{"msg": [["topic", "\u300c\u672a\u5f52\u7c7b\u300d\u8bdd\u9898", "19776751"], [[["topic", "\u6587\u5316\u517b\u8001", "20040696"], []], [["topic", "\u4eba\u4f26", "19723130"], []], [["topic", "\u8239\u673a\u4fee\u9020\u4e13\u4e1a", "19723120"], []], [["topic", "\u5149\u660e\u9a7e\u6821", "20040693"], []], [["topic", "\u81ea\u52a8\u751f\u6210", "19972682"], []], [["topic", "\u53d1\u9645\u7ebf\u540e\u79fb", "19896580"], []], [["topic", "\u5fae\u535a\u8425\u9500-Soul", "19717358"], []], [["topic", "bianc", "20032724"], []], [["topic", "Bold9780", "19720088"], []], [["topic", "\u670d\u5f79", "19720094"], []], [["load", "\u52a0\u8f7d\u66f4\u591a", "19720094", "19776751"], []]]], "r": 0}
+*_*_*_*_*_*_*_*_*_
+getlist:set()
+*_*_*_*_*_*_*_*_*_*_
+posturl:https://www.zhihu.com/topic/19776749/organize/entire?child=19720094&parent=19776751
+html:{"msg": [["topic", "\u300c\u672a\u5f52\u7c7b\u300d\u8bdd\u9898", "19776751"], [[["topic", "\u7559\u6cd5", "19720099"], []], [["topic", "\u690d\u7269\u56fe\u9274", "19720107"], []], [["topic", "\u6212\u9664", "19627123"], []], [["topic", "\u627e\u4e66", "19627119"], []], [["topic", "LSI", "19615683"], []], [["topic", "\u4e73\u623f\u80bf\u5757", "19858190"], []], [["topic", "\u6574\u4f53\u8f6f\u88c5\u8bbe\u8ba1", "19858172"], []], [["topic", "\u9ed1\u5929\u9e45\u4e8b\u4ef6", "19615695"], []], [["topic", "social entrepreneurship", "19968401"], []], [["topic", "\u793e\u4f1a\u521b\u4e1a", "19968397"], []], [["load", "\u52a0\u8f7d\u66f4\u591a", "19968397", "19776751"], []]]], "r": 0}
+*_*_*_*_*_*_*_*_*_
+getlist:set()
+*_*_*_*_*_*_*_*_*_*_
+posturl:https://www.zhihu.com/topic/19776749/organize/entire?child=19968397&parent=19776751
+html:{"msg": [["topic", "\u300c\u672a\u5f52\u7c7b\u300d\u8bdd\u9898", "19776751"], [[["topic", "\u516c\u4f17\u826f\u5fc3", "19628164"], []], [["topic", "\u6559\u5e08\u62db\u8058", "19968382"], []], [["topic", "\u5c0f\u989d\u8d37\u6b3e\u7ba1\u7406\u8f6f\u4ef6", "19968377"], []], [["topic", "\u5c0f\u989d\u8d37\u6b3e\u4e1a\u52a1\u7ba1\u7406\u7cfb\u7edf", "19968376"], []], [["topic", "\u78d5\u5899", "20046415"], []], [["topic", "\u4e39\u5c3c\u5c14\u00b7\u514b\u96f7\u683c", "20046420"], []], [["topic", "IPv5", "20005386"], []], [["topic", "\u8fb9\u9645\u4e3b\u4e49", "20005385"], []], [["topic", "\u6df1\u63a2\u7a76", "19843724"], []], [["topic", "\u5c4c\u4e1d\u8bbe\u8ba1\u5e08", "20005389"], []], [["load", "\u52a0\u8f7d\u66f4\u591a", "20005389", "19776751"], []]]], "r": 0}
+*_*_*_*_*_*_*_*_*_
+getlist:set()
+*_*_*_*_*_*_*_*_*_*_
+posturl:https://www.zhihu.com/topic/19776749/organize/entire?child=20005389&parent=19776751
+html:{"msg": [["topic", "\u300c\u672a\u5f52\u7c7b\u300d\u8bdd\u9898", "19776751"], [[["topic", "\u5bfc\u8d2d\u7c7b", "20046411"], []], [["topic", "\u6444\u9662\u5b66\u9662", "20005395"], []], [["topic", "\u82cf\u7ef4\u57c3", "20046406"], []], [["topic", "\u9ad8\u80fd\u7406\u8bba", "20046408"], []], [["topic", "\u7b97\u6cd5\u4f5c\u66f2", "19814523"], []], [["topic", "\u535a\u5b66", "19748954"], []], [["topic", "indeed", "20045267"], []], [["topic", "\u6b66\u6c49\u690d\u7269\u56ed", "20045268"], []], [["topic", "\u6027\u521b\u4f24", "20045261"], []], [["topic", "\u85e4\u840d", "20045263"], []], [["load", "\u52a0\u8f7d\u66f4\u591a", "20045263", "19776751"], []]]], "r": 0}
+*_*_*_*_*_*_*_*_*_
+getlist:set()
+*_*_*_*_*_*_*_*_*_*_
+posturl:https://www.zhihu.com/topic/19776749/organize/entire?child=20045263&parent=19776751
+html:{"msg": [["topic", "\u300c\u672a\u5f52\u7c7b\u300d\u8bdd\u9898", "19776751"], [[["topic", "\u82b1\u7eb9", "20045265"], []], [["topic", "\u76d8\u77f3", "20045279"], []], [["topic", "\u79fb\u52a8\u5e94\u7528\u6700\u4f73\u5b9e\u8df5", "19711497"], []], [["topic", "\u9996\u9875\u8bbe\u8ba1", "19660273"], []], [["topic", "\u95ee\u8def", "19660260"], []], [["topic", "\u80a1\u6743\u51bb\u7ed3", "20003696"], []], [["topic", "\u7f51\u8d5a\u9879\u76ee", "19860130"], []], [["topic", "\u8c37\u6b4c\u8054\u76df", "19594277"], []], [["topic", "\u6d3b\u6cfc", "19605761"], []], [["topic", "\u6e05\u70ed\u89e3\u6bd2", "19605775"], []], [["load", "\u52a0\u8f7d\u66f4\u591a", "19605775", "19776751"], []]]], "r": 0}
+*_*_*_*_*_*_*_*_*_
+getlist:set()
+*_*_*_*_*_*_*_*_*_*_
+posturl:https://www.zhihu.com/topic/19776749/organize/entire?child=19605775&parent=19776751
+html:{"msg": [["topic", "\u300c\u672a\u5f52\u7c7b\u300d\u8bdd\u9898", "19776751"], [[["topic", "\u6c11\u4e8b\u7ea0\u7eb7", "19860133"], []], [["topic", "\u6cd5\u9662\u804c\u6743\u6ee5\u7528", "19860136"], []], [["topic", "\u8702\u4ea7\u54c1", "19863940"], []], [["topic", "\u597d\u611f", "19665767"], []], [["topic", "\u7f8e\u672f\u6559\u80b2", "19799239"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19799239"], []]]], [["topic", "\u978b\u5b50\u4fdd\u517b", "19852223"], []], [["topic", "\u71c3\u70e7\u5b66", "19852240"], []], [["topic", "\u4e22\u8138", "19943806"], []], [["topic", "\u81ea\u6211\u56f0\u60d1", "19879959"], []], [["topic", "\u817e\u9f99", "19633395"], []], [["load", "\u52a0\u8f7d\u66f4\u591a", "19633395", "19776751"], []]]], "r": 0}
+*_*_*_*_*_*_*_*_*_
+getlist:{'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19799239'}
+*_*_*_*_*_*_*_*_*_*_
+posturl:https://www.zhihu.com/topic/19776749/organize/entire?child=19633395&parent=19776751
+html:{"msg": [["topic", "\u300c\u672a\u5f52\u7c7b\u300d\u8bdd\u9898", "19776751"], [[["topic", "\u67a2\u7ebd\u7f51", "19633378"], []], [["topic", "\u7f51\u7ad9\u7a7a\u95f4", "19633385"], []], [["topic", "nexu4", "19799069"], []], [["topic", "\u78c1\u76d8\u683c\u5f0f", "19552614"], []], [["topic", "\u4e2d\u56fd\u8003\u53e4", "20049684"], []], [["topic", "\u6e38\u620f\u672a\u6765", "20049680"], []], [["topic", "\u7533\u529e\u5965\u8fd0\u4f1a", "20049687"], []], [["topic", "\u86af\u8693\u5de5\u5382", "20049667"], []], [["topic", "\u4e24\u5b66\u4e00\u505a", "20049672"], []], [["topic", "crab", "20049695"], []], [["load", "\u52a0\u8f7d\u66f4\u591a", "20049695", "19776751"], []]]], "r": 0}
+*_*_*_*_*_*_*_*_*_
+getlist:set()
+*_*_*_*_*_*_*_*_*_*_
+posturl:https://www.zhihu.com/topic/19776749/organize/entire?child=20049695&parent=19776751
+html:{"msg": [["topic", "\u300c\u672a\u5f52\u7c7b\u300d\u8bdd\u9898", "19776751"], [[["topic", "\u5f52\u56e0", "20049693"], []], [["topic", "SEO \u57f9\u8bad\u673a\u6784", "19678799"], []], [["topic", "\u66ff\u4ee3\u533b\u5b66", "20009951"], []], [["topic", "HUBOT", "19678790"], []], [["topic", "\u6587\u5316\u8bef\u533a", "19961948"], []], [["topic", "\u95ee\u7b54\u793e\u4ea4", "19595654"], []], [["topic", "\u7ec7\u7269\u5370\u82b1", "19865368"], []], [["topic", "\u5df4\u897f\u5965\u8fd0\u4f1a", "20057021"], []], [["topic", "\u7ed5\u6d41", "20057014"], []], [["topic", "OAuth 2.0", "19645331"], []], [["load", "\u52a0\u8f7d\u66f4\u591a", "19645331", "19776751"], []]]], "r": 0}
+*_*_*_*_*_*_*_*_*_
+getlist:set()
+*_*_*_*_*_*_*_*_*_*_
+posturl:https://www.zhihu.com/topic/19776749/organize/entire?child=19645331&parent=19776751
+html:{"msg": [["topic", "\u300c\u672a\u5f52\u7c7b\u300d\u8bdd\u9898", "19776751"], [[["topic", "\u963f\u62c9\u4f2f\u6587", "20057035"], []], [["topic", "\u5c0f\u8d44\u4ea7\u9636\u7ea7", "20057040"], []], [["topic", "\u7f6a\u884c", "19645315"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19645315"], []]]], [["topic", "\u624b\u673a\u9500\u552e", "19645319"], []], [["topic", "\u6027\u8f6c", "20057042"], []], [["topic", "\u6155\u5bb9\u590d", "20057044"], []], [["topic", "\u5f02\u5473", "19645338"], []], [["topic", "vogue", "19651633"], []], [["topic", "\u5f71\u97f3", "19651639"], []], [["topic", "\u65e5\u6599", "19777006"], []], [["load", "\u52a0\u8f7d\u66f4\u591a", "19777006", "19776751"], []]]], "r": 0}
+*_*_*_*_*_*_*_*_*_
+getlist:{'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19645315'}
+*_*_*_*_*_*_*_*_*_*_
+posturl:https://www.zhihu.com/topic/19776749/organize/entire?child=19777006&parent=19776751
+html:{"msg": [["topic", "\u300c\u672a\u5f52\u7c7b\u300d\u8bdd\u9898", "19776751"], [[["topic", "\u514d\u8d39\u7eed\u676f", "19698407"], []], [["topic", "golf varinat", "19652070"], []], [["topic", "\u6162\u9012", "19652059"], []], [["topic", "\u6c7d\u8f66\u89c2\u5ff5", "19652079"], []], [["topic", "\u5bc6\u4fdd", "20034800"], []], [["topic", "\u8f6c\u578b\u671f", "19644491"], []], [["topic", "\u6c7d\u8f66\u670d\u52a1", "19644500"], []], [["topic", "manager", "19644498"], []], [["topic", "\u4fe1\u606f\u788e\u7247\u5316", "19808484"], []], [["topic", "\u7ba1\u7406\u601d\u60f3", "19687830"], []], [["load", "\u52a0\u8f7d\u66f4\u591a", "19687830", "19776751"], []]]], "r": 0}
+*_*_*_*_*_*_*_*_*_
+getlist:set()
+*_*_*_*_*_*_*_*_*_*_
+posturl:https://www.zhihu.com/topic/19776749/organize/entire?child=19687830&parent=19776751
+html:{"msg": [["topic", "\u300c\u672a\u5f52\u7c7b\u300d\u8bdd\u9898", "19776751"], [[["topic", "\u6210\u719f\u8fc7\u7a0b", "19808494"], []], [["topic", "\u7ebf\u6750", "19808495"], []], [["topic", "\u65bd\u6d3e", "20022432"], []], [["topic", "\u65b0\u95fb\u8ffd\u8e2a", "20022436"], []], [["topic", "\u771f\u4e1d\u6d17\u6da4", "19868886"], []], [["topic", "\u534e\u590f\u5e78\u798f\u57fa\u4e1a", "19868878"], []], [["topic", "\u7231\u60c5\u7684\u9762\u76ee", "19868893"], []], [["topic", "\u76ee\u6807\u7528\u6237", "19564500"], []], [["topic", "\u5e02\u573a\u60c5\u62a5\u6536\u96c6\u4e0e\u5206\u6790", "19564510"], []], [["topic", "\u804c\u4e1a\u73af\u5883", "19564505"], []], [["load", "\u52a0\u8f7d\u66f4\u591a", "19564505", "19776751"], []]]], "r": 0}
+*_*_*_*_*_*_*_*_*_
+getlist:set()
+*_*_*_*_*_*_*_*_*_*_
+posturl:https://www.zhihu.com/topic/19776749/organize/entire?child=19564505&parent=19776751
+html:{"msg": [["topic", "\u300c\u672a\u5f52\u7c7b\u300d\u8bdd\u9898", "19776751"], [[["topic", "\u6d41\u91cf\u5de5\u5177", "19564511"], []], [["topic", "\u56bc\u70df", "20059992"], []], [["topic", "\u50cf\u7d20", "19564521"], []], [["topic", "\u5f85\u4eba\u63a5\u7269", "19793171"], []], [["topic", "\u6d9b\u5c9b", "20059994"], []], [["topic", "\u9759\u6001\u89c6\u529b", "20059979"], []], [["topic", "\u52a8\u6001\u89c6\u529b", "20059976"], []], [["topic", "\u4e0a\u62c9\u7535\u963b", "20059986"], []], [["topic", "\u5c0f\u578bXBOX\u4e3b\u673a", "20059983"], []], [["topic", "\u51cf\u5211", "19609304"], []], [["load", "\u52a0\u8f7d\u66f4\u591a", "19609304", "19776751"], []]]], "r": 0}
+*_*_*_*_*_*_*_*_*_
+getlist:set()
+*_*_*_*_*_*_*_*_*_*_
+posturl:https://www.zhihu.com/topic/19776749/organize/entire?child=19609304&parent=19776751
+html:{"msg": [["topic", "\u300c\u672a\u5f52\u7c7b\u300d\u8bdd\u9898", "19776751"], [[["topic", "12factor", "20054176"], []], [["topic", "\u8ffd\u661f\u65cf", "19855727"], []], [["topic", "\u9f7f\u9699", "20054161"], []], [["topic", "\u5df4\u62ff\u9a6c\u5730\u5ce1", "20054159"], []], [["topic", "\u8c03\u6027", "19609282"], []], [["topic", "\u97f3\u4e50\u8bc6\u522b", "19609289"], []], [["topic", "\u82b1\u5f0f\u5582\u72d7\u7cae", "20054143"], []], [["topic", "\u9759\u5188", "20054155"], []], [["topic", "\u74f6\u9888", "19609302"], []], [["topic", "\u9694\u97f3\u4e13\u5bb6", "19916180"], []], [["load", "\u52a0\u8f7d\u66f4\u591a", "19916180", "19776751"], []]]], "r": 0}
+*_*_*_*_*_*_*_*_*_
+getlist:set()
+*_*_*_*_*_*_*_*_*_*_
+posturl:https://www.zhihu.com/topic/19776749/organize/entire?child=19916180&parent=19776751
+html:{"msg": [["topic", "\u300c\u672a\u5f52\u7c7b\u300d\u8bdd\u9898", "19776751"], [[["topic", "\u77e5\u53cb\u805a\u4f1a", "19598734"], []], [["topic", "\u73af\u4e16\u754c", "20058513"], []], [["topic", "\u7f8e\u56fd\u56fd\u5bb6\u5730\u7406", "19794898"], []], [["topic", "\u7528\u6237\u7559\u5b58", "19794889"], []], [["topic", "\u7537\u6027\u6743\u76ca", "20058501"], []], [["topic", "\u5973\u5b69\u5b50\u9009\u4e13\u4e1a", "19965376"], []], [["topic", "\u5b9a\u505a\u9080\u8bf7\u51fd", "19965368"], []], [["topic", "\u4e2a\u4eba\u521b\u4e1a", "19676984"], []], [["topic", "SGS", "19676987"], []], [["topic", "\u4e8c\u5341\u4e00\u4e09\u4f53\u7efc\u5408\u75c7", "19789149"], []], [["load", "\u52a0\u8f7d\u66f4\u591a", "19789149", "19776751"], []]]], "r": 0}
+*_*_*_*_*_*_*_*_*_
+getlist:set()
+*_*_*_*_*_*_*_*_*_*_
+posturl:https://www.zhihu.com/topic/19776749/organize/entire?child=19789149&parent=19776751
+html:{"msg": [["topic", "\u300c\u672a\u5f52\u7c7b\u300d\u8bdd\u9898", "19776751"], [[["topic", "\u5355\u54c1\u901a\u6d3b\u52a8", "19965394"], []], [["topic", "\u4e91\u6740\u6bd2", "19563226"], []], [["topic", "\u4e2d\u56fd\u6c99\u6f20\u6539\u5584", "19962594"], []], [["topic", "\u804c\u79f0\u8003\u8bd5", "19798516"], []], [["topic", "\u7740\u9646", "19581334"], []], [["topic", "\u8dd1\u9053", "19581331"], []], [["topic", "\u793e\u4f1a\u65b0\u95fb", "19581350"], []], [["topic", "WaveFax", "19830949"], []], [["topic", "\u6295\u8d44\u5b89\u5168", "19961326"], []], [["topic", "\u7406\u8d22\u5b89\u5168", "19961317"], []], [["load", "\u52a0\u8f7d\u66f4\u591a", "19961317", "19776751"], []]]], "r": 0}
+*_*_*_*_*_*_*_*_*_
+getlist:set()
+*_*_*_*_*_*_*_*_*_*_
+posturl:https://www.zhihu.com/topic/19776749/organize/entire?child=19961317&parent=19776751
+html:{"msg": [["topic", "\u300c\u672a\u5f52\u7c7b\u300d\u8bdd\u9898", "19776751"], [[["topic", "\u5b89\u5168\u4fdd\u969c", "19961316"], []], [["topic", "\u592a\u7a7a\u98de\u884c", "19961301"], []], [["topic", "\u5728\u7ebf\u6295\u8d44", "19961306"], []], [["topic", "\u6e38\u65cf", "20042107"], []], [["topic", "\u6536\u8d39", "19568957"], []], [["topic", "\u4e50\u8da3", "19568951"], []], [["topic", "Designer", "19568949"], []], [["topic", "AR\u6280\u672f", "19568963"], []], [["topic", "\u95e8\u69db", "19568959"], []], [["topic", "\u7f16\u53f7", "19760686"], []], [["load", "\u52a0\u8f7d\u66f4\u591a", "19760686", "19776751"], []]]], "r": 0}
+*_*_*_*_*_*_*_*_*_
+getlist:set()
+*_*_*_*_*_*_*_*_*_*_
+posturl:https://www.zhihu.com/topic/19776749/organize/entire?child=19760686&parent=19776751
+html:{"msg": [["topic", "\u300c\u672a\u5f52\u7c7b\u300d\u8bdd\u9898", "19776751"], [[["topic", "\u5e02\u573a\u8c03\u67e5\u516c\u53f8", "19760690"], []], [["topic", "\u7efc\u5408", "19688797"], []], [["topic", "\u5973PUA", "19919082"], []], [["topic", "\u56fd\u9645\u6d88\u8d39\u7535\u5b50\u5c55\uff08ICES\uff09", "19552701"], []], [["topic", "\u9886\u7a7a", "19685836"], []], [["topic", "\u6b4c\u8bcd\u8bed\u6cd5", "19969133"], []], [["topic", "\u8c03\u7126\u8f6f\u4ef6", "19969141"], []], [["topic", "\u516b\u5366\u6c42\u89e3", "19685863"], []], [["topic", "fantasy", "19596102"], []], [["topic", "\u77e5\u5929\u547d", "19944258"], []], [["load", "\u52a0\u8f7d\u66f4\u591a", "19944258", "19776751"], []]]], "r": 0}
+*_*_*_*_*_*_*_*_*_
+getlist:set()
+*_*_*_*_*_*_*_*_*_*_
+posturl:https://www.zhihu.com/topic/19776749/organize/entire?child=19944258&parent=19776751
+html:{"msg": [["topic", "\u300c\u672a\u5f52\u7c7b\u300d\u8bdd\u9898", "19776751"], [[["topic", "\u4e1c\u839e\u626b\u9ec4", "19944255"], []], [["topic", "\u8de8\u56fd\u5de5\u4f5c", "20036060"], []], [["topic", "\u540c\u5fd7", "19555395"], []], [["topic", "Software License", "19565895"], []], [["topic", "\u624b\u6301\u8eab\u4efd\u8bc1\u7167\u7247", "20059867"], []], [["topic", "\u4e2d\u5357\u534a\u5c9b", "20059874"], []], [["topic", "\u5a92\u4f53\u66b4\u529b", "20059877"], []], [["topic", "\u4e92\u8054\u7f51\u516c\u5ba1", "20059878"], []], [["topic", "\u865a\u62df\u5076\u50cf", "20059879"], []], [["topic", "\u6cb3\u6d77\u5927\u5b66\u5e38\u5dde\u6821\u533a", "20059883"], []], [["load", "\u52a0\u8f7d\u66f4\u591a", "20059883", "19776751"], []]]], "r": 0}
+*_*_*_*_*_*_*_*_*_
+getlist:set()
+*_*_*_*_*_*_*_*_*_*_
+posturl:https://www.zhihu.com/topic/19776749/organize/entire?child=20059883&parent=19776751
+html:{"msg": [["topic", "\u300c\u672a\u5f52\u7c7b\u300d\u8bdd\u9898", "19776751"], [[["topic", "\u9650\u5236\u6027\u80a1\u7968", "20059885"], []], [["topic", "B20", "20059888"], []], [["topic", "\u8f66\u8003\u9a7e\u7167", "19958975"], []], [["topic", "\u591a\u5ba2\u670d", "20032344"], []], [["topic", "\u5c0f\u725b\u7535\u52a8", "20032347"], []], [["topic", "\u6881\u5efa\u7ae0", "20032358"], []], [["topic", "\u5f62\u8c61\u5305\u88c5", "19670752"], []], [["topic", "\u7834\u8bd1", "19670769"], []], [["topic", "\u5916\u592a\u7a7a", "19709983"], []], [["topic", "\u4f01\u4e1a\u62db\u8058", "19593166"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19593166"], []]]], [["load", "\u52a0\u8f7d\u66f4\u591a", "19593166", "19776751"], []]]], "r": 0}
+*_*_*_*_*_*_*_*_*_
+getlist:{'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19593166'}
+*_*_*_*_*_*_*_*_*_*_
+posturl:https://www.zhihu.com/topic/19776749/organize/entire?child=19593166&parent=19776751
+html:{"msg": [["topic", "\u300c\u672a\u5f52\u7c7b\u300d\u8bdd\u9898", "19776751"], [[["topic", "\u8c03\u5242", "19687761"], []], [["topic", "\u5f81\u5730\u8865\u507f", "19828607"], []], [["topic", "\u6469\u5929\u5927\u53a6", "19687756"], []], [["topic", "\u6c7d\u8f66\u81ea\u52a8\u6321\u8fd8\u662f\u624b\u52a8\u6321", "19910611"], []], [["topic", "\u65b0\u5175\u8bad\u7ec3\u8425", "19603974"], []], [["topic", "\u6f5c\u80fd", "19603970"], []], [["topic", "\u521d\u7ea7\u804c\u79f0", "19876896"], []], [["topic", "\u9506\u77f3", "19876156"], []], [["topic", "\u4eba\u624d\u5f15\u8fdb", "19899616"], []], [["topic", "\u673a\u68b0\u589e\u538b", "19923725"], []], [["load", "\u52a0\u8f7d\u66f4\u591a", "19923725", "19776751"], []]]], "r": 0}
+*_*_*_*_*_*_*_*_*_
+getlist:set()
+*_*_*_*_*_*_*_*_*_*_
+posturl:https://www.zhihu.com/topic/19776749/organize/entire?child=19923725&parent=19776751
+html:{"msg": [["topic", "\u300c\u672a\u5f52\u7c7b\u300d\u8bdd\u9898", "19776751"], [[["topic", "\u7f8e\u56fd\u603b\u7edf\u7ade\u9009", "19923729"], []], [["topic", "\u5927\u6cd5\u5b98", "19899603"], []], [["topic", "\u6587\u7f51\u6587", "19876153"], []], [["topic", "\u57fa\u7840\u79d1\u5b66", "19899998"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19899998"], []]]], [["topic", "\u7ecf\u5178\u52a8\u753b", "20054054"], []], [["topic", "\u9f3b\u5b54", "19696432"], []], [["topic", "\u5e72\u71e5", "19696436"], []], [["topic", "\u5bcc\u5fae\u535a", "19587671"], []], [["topic", "\u5341\u4e07\u4e2a\u4e3a\u4ec0\u4e48", "19587654"], []], [["topic", "\u72b9\u592a", "19795389"], []], [["load", "\u52a0\u8f7d\u66f4\u591a", "19795389", "19776751"], []]]], "r": 0}
+*_*_*_*_*_*_*_*_*_
+getlist:{'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19899998'}
+*_*_*_*_*_*_*_*_*_*_
+posturl:https://www.zhihu.com/topic/19776749/organize/entire?child=19795389&parent=19776751
+html:{"msg": [["topic", "\u300c\u672a\u5f52\u7c7b\u300d\u8bdd\u9898", "19776751"], [[["topic", "\u91ce\u9910", "19702345"], []], [["topic", "\u672c\u5730\u751f\u6d3b\u4fe1\u606f\u670d\u52a1", "19573533"], []], [["topic", "\u751f\u7269\u4e4b\u8c1c", "20027436"], []], [["topic", "\u6388\u8bfe\u578b\u7814\u7a76\u751f", "19897183"], []], [["topic", "\u66f4\u6362\u624b\u673a", "19810331"], []], [["topic", "\u5bb6\u7528DV", "19810317"], []], [["topic", "\u4f18\u8d8a\u6027", "20027415"], []], [["topic", "Yispecter", "20027441"], []], [["topic", "\u684c\u5e03", "19881375"], []], [["topic", "\u9b3c\u602a", "19595453"], []], [["load", "\u52a0\u8f7d\u66f4\u591a", "19595453", "19776751"], []]]], "r": 0}
+*_*_*_*_*_*_*_*_*_
+getlist:set()
+*_*_*_*_*_*_*_*_*_*_
+posturl:https://www.zhihu.com/topic/19776749/organize/entire?child=19595453&parent=19776751
+html:{"msg": [["topic", "\u300c\u672a\u5f52\u7c7b\u300d\u8bdd\u9898", "19776751"], [[["topic", "windows media center", "19607818"], []], [["topic", "\u94bb\u77f3\u9500\u552e\u7f51\u7ad9", "19607817"], []], [["topic", "\u4e0a\u5e1d\u63b7\u9ab0\u5b50\u5417\uff08\u4e66\u7c4d\uff09", "19833778"], []], [["topic", "\u96c6\u6210\u540a\u9876", "19835984"], []], [["topic", "\u5c4c\u4e1d\u6587\u5316", "19903250"], []], [["topic", "TSP\u95ee\u9898", "20004129"], []], [["topic", "\u5f00\u5355", "20018913"], []], [["topic", "\u89c2\u5f71\u5fc3\u5f97", "19758967"], []], [["topic", "\u590f\u65b0\u5927V", "19746506"], []], [["topic", "SuperMap", "19688138"], []], [["load", "\u52a0\u8f7d\u66f4\u591a", "19688138", "19776751"], []]]], "r": 0}
+*_*_*_*_*_*_*_*_*_
+getlist:set()
+*_*_*_*_*_*_*_*_*_*_
+posturl:https://www.zhihu.com/topic/19776749/organize/entire?child=19688138&parent=19776751
+html:{"msg": [["topic", "\u300c\u672a\u5f52\u7c7b\u300d\u8bdd\u9898", "19776751"], [[["topic", "\u9ed1\u5be1\u5987", "19746496"], []], [["topic", "\u7535\u6e90\u63d2\u5ea7", "19797359"], []], [["topic", "\u4e2d\u4e1c\u6b27", "20044657"], []], [["topic", "\u7b2c\u4e8c\u804c\u4e1a", "19557821"], []], [["topic", "gt'gk", "20044649"], []], [["topic", "\u5728\u7ebf\u5236\u4f5c", "20044654"], []], [["topic", "\u5434\u5065\u96c4\u5b66\u9662", "20044671"], []], [["topic", "\u4e8c\u8111\u9910", "20044663"], []], [["topic", "\u5982\u5395", "19826672"], []], [["topic", "\u4e0e\u7236\u6bcd\u76f8\u5904", "19893416"], []], [["load", "\u52a0\u8f7d\u66f4\u591a", "19893416", "19776751"], []]]], "r": 0}
+*_*_*_*_*_*_*_*_*_
+getlist:set()
+*_*_*_*_*_*_*_*_*_*_
+posturl:https://www.zhihu.com/topic/19776749/organize/entire?child=19893416&parent=19776751
+html:{"msg": [["topic", "\u300c\u672a\u5f52\u7c7b\u300d\u8bdd\u9898", "19776751"], [[["topic", "\u65b0\u98ce", "20044676"], []], [["topic", "\u5916\u6302", "19826667"], []], [["topic", "\u9752\u5e74\u5bfc\u5e08", "19584689"], []], [["topic", "\u88f8\u4f53", "19584690"], []], [["topic", "\u5408\u80a5\u70ed\u7ebf", "19679188"], []], [["topic", "\u901f\u6210", "19679202"], []], [["topic", "\u5927\u5b66\u751f\u82f1\u8bed\u7ade\u8d5b", "19836471"], []], [["topic", "\u7d2b\u5916\u7ebf\u6d88\u6bd2\u5668", "19840440"], []], [["topic", "\u5730\u4e0b\u5ba4", "19689507"], []], [["topic", "\u6cb9\u7535\u6df7\u5408", "19840463"], []], [["load", "\u52a0\u8f7d\u66f4\u591a", "19840463", "19776751"], []]]], "r": 0}
+*_*_*_*_*_*_*_*_*_
+getlist:set()
+*_*_*_*_*_*_*_*_*_*_
+posturl:https://www.zhihu.com/topic/19776749/organize/entire?child=19840463&parent=19776751
+html:{"msg": [["topic", "\u300c\u672a\u5f52\u7c7b\u300d\u8bdd\u9898", "19776751"], [[["topic", "\u82cf\u5bcc\u6bd4", "19892383"], []], [["topic", "\u7167\u7247\u6574\u7406", "19826254"], []], [["topic", "LBE \u5c0f\u7ec4", "19731028"], []], [["topic", "Cyberculture", "19731034"], []], [["topic", "\u4e1c\u65b9\u4e3b\u4e49\uff08Orientalism\uff09", "19731047"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19731047"], []]]], [["topic", "\u4e8c\u624b\u4e66", "19552968"], []], [["topic", "\u5730\u65b9\u95e8\u6237", "19578891"], []], [["topic", "\u6821\u56ed\u8425\u9500", "19578890"], []], [["topic", "\u6492\u8c0e", "19552963"], []], [["topic", "The Next Web\uff08TNW\uff09", "19552944"], []], [["load", "\u52a0\u8f7d\u66f4\u591a", "19552944", "19776751"], []]]], "r": 0}
+*_*_*_*_*_*_*_*_*_
+getlist:{'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19731047'}
+*_*_*_*_*_*_*_*_*_*_
+posturl:https://www.zhihu.com/topic/19776749/organize/entire?child=19552944&parent=19776751
+html:{"msg": [["topic", "\u300c\u672a\u5f52\u7c7b\u300d\u8bdd\u9898", "19776751"], [[["topic", "\u81ea\u7531\u610f\u5fd7\u4e3b\u4e49", "19858374"], []], [["topic", "\u4e16\u754c\u540d\u8457", "19858390"], []], [["topic", "\u6148\u60b2", "19858383"], []], [["topic", "\u9632\u4fb5\u5bb3", "20003805"], []], [["topic", "\u5267\u7167", "19742478"], []], [["topic", "ji'lu'p", "20003797"], []], [["topic", "\u7eff\u76ae\u8f66", "20003800"], []], [["topic", "\u6c11\u6b4c\u8fd0\u52a8", "20003799"], []], [["topic", "Ferragamo", "20003816"], []], [["topic", "\u7406\u667a\u4e0e\u60c5\u611f", "19614174"], []], [["load", "\u52a0\u8f7d\u66f4\u591a", "19614174", "19776751"], []]]], "r": 0}
+*_*_*_*_*_*_*_*_*_
+getlist:set()
+*_*_*_*_*_*_*_*_*_*_
+posturl:https://www.zhihu.com/topic/19776749/organize/entire?child=19614174&parent=19776751
+html:{"msg": [["topic", "\u300c\u672a\u5f52\u7c7b\u300d\u8bdd\u9898", "19776751"], [[["topic", "\u5927\u5bb6\u6295", "19989886"], []], [["topic", "\u65e5\u7cfb\u6de1\u96c5", "19841695"], []], [["topic", "\u4ea4\u901a\u4e8b\u6545\u8d54\u507f", "19632720"], []], [["topic", "\u7535\u8111\u5b66\u4e60\u8d44\u6e90", "19632725"], []], [["topic", "CBS Corporation", "19748793"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19748793"], []]]], [["topic", "TechCrunch Disrupt", "19632711"], []], [["topic", "\u5d29\u76d8", "19632735"], []], [["topic", "cntk", "20046732"], []], [["topic", "\u8bd7\u548c\u8fdc\u65b9", "20046735"], []], [["topic", "\u94bb\u77f3\u56fd\u9645", "20046736"], []], [["load", "\u52a0\u8f7d\u66f4\u591a", "20046736", "19776751"], []]]], "r": 0}
+*_*_*_*_*_*_*_*_*_
+getlist:{'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19748793'}
+*_*_*_*_*_*_*_*_*_*_
+posturl:https://www.zhihu.com/topic/19776749/organize/entire?child=20046736&parent=19776751
+html:{"msg": [["topic", "\u300c\u672a\u5f52\u7c7b\u300d\u8bdd\u9898", "19776751"], [[["topic", "\u590d\u8bfb\u673a", "20046737"], []], [["topic", "\u5f71\u68da\u706f", "20046744"], []], [["topic", "\u65f6\u5149\u8f74", "19693776"], []], [["topic", "\u88aa\u6e7f", "19830808"], []], [["topic", "\u5355\u7ebf\u7a0b", "19637770"], []], [["topic", "\u8110\u5e26\u8840\u6350\u732e", "19637755"], []], [["topic", "FTL", "19830826"], []], [["topic", "\u65b0\u751f\u5a74\u513f\u6ce8\u610f\u4e8b\u9879", "19637757"], []], [["topic", "\u514b\u4e18\u4e9a", "20037328"], []], [["topic", "\u53a6\u95e8\u5e02", "19723461"], []], [["load", "\u52a0\u8f7d\u66f4\u591a", "19723461", "19776751"], []]]], "r": 0}
+*_*_*_*_*_*_*_*_*_
+getlist:set()
+*_*_*_*_*_*_*_*_*_*_
+posturl:https://www.zhihu.com/topic/19776749/organize/entire?child=19723461&parent=19776751
+html:{"msg": [["topic", "\u300c\u672a\u5f52\u7c7b\u300d\u8bdd\u9898", "19776751"], [[["topic", "maozhuxiwansui", "20043933"], []], [["topic", "\u6eec\u5287", "20037327"], []], [["topic", "job market", "20033086"], []], [["topic", "233", "20033082"], []], [["topic", "\u54f2\u5b66\u4e66", "19783801"], []], [["topic", "\u624b\u6e38\u5305", "20033058"], []], [["topic", "\u627e\u670b\u53cb", "19652792"], []], [["topic", "\u7cbe\u5f69\u56de\u7b54", "19652795"], []], [["topic", "Grooveshark", "19652809"], []], [["topic", "\u7f51\u8d2d\u7f51\u7ad9", "19652810"], []], [["load", "\u52a0\u8f7d\u66f4\u591a", "19652810", "19776751"], []]]], "r": 0}
+*_*_*_*_*_*_*_*_*_
+getlist:set()
+*_*_*_*_*_*_*_*_*_*_
+posturl:https://www.zhihu.com/topic/19776749/organize/entire?child=19652810&parent=19776751
+html:{"msg": [["topic", "\u300c\u672a\u5f52\u7c7b\u300d\u8bdd\u9898", "19776751"], [[["topic", "\u826f\u5e01", "20051364"], []], [["topic", "\u706f\u5177\u5e02\u573a", "19872205"], []], [["topic", "\u6597\u9c7c\u5e7f\u544a", "20051358"], []], [["topic", "\u80e1\u4e71\u90a6", "20051372"], []], [["topic", "\u773c\u955c\u7247", "19786030"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19786030"], []]]], [["topic", "\u5a01\u6743\u4e3b\u4e49", "19765891"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19765891"], []]]], [["topic", "\u91cf\u5316\u6d3e", "20012167"], []], [["topic", "\u8fde\u5750\u5236", "20012184"], []], [["topic", "\u9ad8\u9f84\u5c11\u5b50\u5316", "20012182"], []], [["topic", "VIVA \u65e0\u7ebf\u65b0\u5a92\u4f53", "19728245"], []], [["load", "\u52a0\u8f7d\u66f4\u591a", "19728245", "19776751"], []]]], "r": 0}
+*_*_*_*_*_*_*_*_*_
+getlist:{'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19765891', 'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19786030'}
+*_*_*_*_*_*_*_*_*_*_
+posturl:https://www.zhihu.com/topic/19776749/organize/entire?child=19728245&parent=19776751
+html:{"msg": [["topic", "\u300c\u672a\u5f52\u7c7b\u300d\u8bdd\u9898", "19776751"], [[["topic", "\u623f\u5c4b\u4fdd\u6e29", "19826041"], []], [["topic", "\u82f1\u6587\u4e66\u8bc4", "19663630"], []], [["topic", "\u964d\u6743", "19663627"], []], [["topic", "\u5370\u5237\u5382", "19663626"], []], [["topic", "SNS \u4ea7\u54c1", "19663614"], []], [["topic", "\u6c7d\u8f66\u96f6\u4ef6", "19663609"], []], [["topic", "\u56fa\u5b9a\u7ffc", "19861493"], []], [["topic", "\u82b1\u6728", "19861487"], []], [["topic", "\u5fae\u4fe1\u7406\u8d22\u901a", "19938810"], []], [["topic", "\u5927\u8111\u98ce\u66b4", "19938829"], []], [["load", "\u52a0\u8f7d\u66f4\u591a", "19938829", "19776751"], []]]], "r": 0}
+*_*_*_*_*_*_*_*_*_
+getlist:set()
+*_*_*_*_*_*_*_*_*_*_
+posturl:https://www.zhihu.com/topic/19776749/organize/entire?child=19938829&parent=19776751
+html:{"msg": [["topic", "\u300c\u672a\u5f52\u7c7b\u300d\u8bdd\u9898", "19776751"], [[["topic", "\u52a8\u6279", "19975981"], []], [["topic", "\u6162\u6027\u54bd\u5589\u708e\u53cd\u590d\u53d1\u4f5c", "19975974"], []], [["topic", "\u670d\u52a1\u5668\u5b89\u5168", "19861511"], []], [["topic", "\u4f24\u75db", "19975959"], []], [["topic", "\u5a74\u5e7c\u65e9\u6559", "19975960"], []], [["topic", "\u8131\u81fc", "19975958"], []], [["topic", "\u751f\u6d3b\u73b0\u573a", "19629952"], []], [["topic", "tkinter", "19865069"], []], [["topic", "\u95ed\u53e3\u7c89\u523a", "20029722"], []], [["topic", "\u6ef4\u773c\u6db2", "19700692"], []], [["load", "\u52a0\u8f7d\u66f4\u591a", "19700692", "19776751"], []]]], "r": 0}
+*_*_*_*_*_*_*_*_*_
+getlist:set()
+*_*_*_*_*_*_*_*_*_*_
+posturl:https://www.zhihu.com/topic/19776749/organize/entire?child=19700692&parent=19776751
+html:{"msg": [["topic", "\u300c\u672a\u5f52\u7c7b\u300d\u8bdd\u9898", "19776751"], [[["topic", "\u5348\u9910\u62cd\u5356", "20017776"], []], [["topic", "\u811a\u88f8", "20017762"], []], [["topic", "\u674e\u8273\u8273", "20017763"], []], [["topic", "\u6606\u660e\u706b\u8f66\u7ad9", "19952461"], []], [["topic", "cfido", "19554568"], []], [["topic", "\u4e18\u75b9", "20029730"], []], [["topic", "\u786c\u4ef6\u5f00\u53d1", "19937481"], []], [["topic", "\u7ea2\u75b9\u5b50", "20029739"], []], [["topic", "\u98ce\u53e3", "20044020"], []], [["topic", "\u7231\u770b\u8c46", "19680310"], []], [["load", "\u52a0\u8f7d\u66f4\u591a", "19680310", "19776751"], []]]], "r": 0}
+*_*_*_*_*_*_*_*_*_
+getlist:set()
+*_*_*_*_*_*_*_*_*_*_
+posturl:https://www.zhihu.com/topic/19776749/organize/entire?child=19680310&parent=19776751
+html:{"msg": [["topic", "\u300c\u672a\u5f52\u7c7b\u300d\u8bdd\u9898", "19776751"], [[["topic", "B2C \u5546\u57ce\u8fd0\u8425", "19635790"], []], [["topic", "\u4fe1\u4efb\u5371\u673a", "19787421"], []], [["topic", "\u77ed\u94fe\u63a5", "19564386"], []], [["topic", "\u798f\u5229\u5236\u5ea6", "19656790"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19656790"], []]]], [["topic", "\u96f6\u94b1\u5b9d", "19935658"], []], [["topic", "\u53cd\u7d20\u98df\u4e3b\u4e49", "19886459"], []], [["topic", "Wordpress SEO", "19656775"], []], [["topic", "\u5929\u72fc", "19656782"], []], [["topic", "\u5f53\u4ee3", "19621069"], []], [["topic", "\u56fe\u7ae0", "19621066"], []], [["load", "\u52a0\u8f7d\u66f4\u591a", "19621066", "19776751"], []]]], "r": 0}
+*_*_*_*_*_*_*_*_*_
+getlist:{'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19656790'}
+*_*_*_*_*_*_*_*_*_*_
+posturl:https://www.zhihu.com/topic/19776749/organize/entire?child=19621066&parent=19776751
+html:{"msg": [["topic", "\u300c\u672a\u5f52\u7c7b\u300d\u8bdd\u9898", "19776751"], [[["topic", "\u62a5\u5e9f", "19648829"], []], [["topic", "\u5c0f\u6ce2\u53d8\u6362\uff08wavelet transform\uff09", "19621077"], []], [["topic", "\u773c\u7403", "19648832"], []], [["topic", "DoNews\u5de5\u4f5c\u5ba4", "19719607"], []], [["topic", "BPM", "19627074"], []], [["topic", "\u5408\u4f5c\u4f19\u4f34", "19627069"], []], [["topic", "GNU Hurd", "19627051"], []], [["topic", "\u5fc3\u7406\u4e13\u5bb6", "19627061"], []], [["topic", "\u5ba1\u7247", "19627064"], []], [["topic", "abcdef", "19965950"], []], [["load", "\u52a0\u8f7d\u66f4\u591a", "19965950", "19776751"], []]]], "r": 0}
+*_*_*_*_*_*_*_*_*_
+getlist:set()
+*_*_*_*_*_*_*_*_*_*_
+posturl:https://www.zhihu.com/topic/19776749/organize/entire?child=19965950&parent=19776751
+html:{"msg": [["topic", "\u300c\u672a\u5f52\u7c7b\u300d\u8bdd\u9898", "19776751"], [[["topic", "\u65b0\u5e74\u795d\u798f", "19929196"], []], [["topic", "sequelpro", "19965953"], []], [["topic", "\u8352\u6f20", "19965966"], []], [["topic", "\u5fd9\u884c", "19965961"], []], [["topic", "\u514d\u9a8c\u8d44", "19965975"], []], [["topic", "Prestashop", "19621914"], []], [["topic", "\u7f51\u7edc\u7ed3\u6784", "19621920"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19621920"], []]]], [["topic", "\u59a5\u534f", "19631804"], []], [["topic", "\u9a6c\u620f\u56e2", "19631793"], [[["load", "\u663e\u793a\u5b50\u8bdd\u9898", "", "19631793"], []]]], [["topic", "\u6e38\u4e50\u573a", "19631792"], []], [["load", "\u52a0\u8f7d\u66f4\u591a", "19631792", "19776751"], []]]], "r": 0}
+*_*_*_*_*_*_*_*_*_
+getlist:{'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19631793', 'https://www.zhihu.com/topic/19776749/organize/entire?child=&parent=19621920'}
+*_*_*_*_*_*_*_*_*_*_
+posturl:https://www.zhihu.com/topic/19776749/organize/entire?child=19631792&parent=19776751
+html:{"msg": [["topic", "\u300c\u672a\u5f52\u7c7b\u300d\u8bdd\u9898", "19776751"], [[["topic", "\u661f\u5ea7\u914d\u5bf9", "19593916"], []], [["topic", "\u5927\u4f17\u5fc3\u7406\u5b66", "19631801"], []], [["topic", "\u5566\u5566\u961f", "19733627"], []], [["topic", "\u5b50\u5f39\u65f6\u95f4", "19682821"], []], [["topic", "\u6539\u53d8", "19550814"], []], [["topic", "iPhone \u6e38\u620f\u5f00\u53d1", "19550810"], []], [["topic", "Sliverlight", "19626539"], []], [["topic", "\u4ea7\u54c1\u4f7f\u7528\u6280\u5de7", "19550805"], []], [["topic", "\u53e4\u57ce\u5899", "19772353"], []], [["topic", "\u559c\u65b0\u538c\u65e7", "19961804"], []], [["load", "\u52a0\u8f7d\u66f4\u591a", "19961804", "19776751"], []]]], "r": 0}
+*_*_*_*_*_*_*_*_*_
+getlist:set()
+*_*_*_*_*_*_*_*_*_*_
+posturl:https://www.zhihu.com/topic/19776749/organize/entire?child=19961804&parent=19776751
+html:{"msg": [["topic", "\u300c\u672a\u5f52\u7c7b\u300d\u8bdd\u9898", "19776751"], [[["topic", "\u591a\u6613\u62cd", "19961786"], []], [["topic", "\u5bb6\u535a\u4f1a", "19961792"], []], [["topic", "\u97e9\u56fd\u7f8e\u98df", "19961781"], []], [["topic", "\u597d\u533b\u53cb", "19961785"], []], [["topic", "\u80af\u00b7\u5a01\u5c14\u4f2f", "20042922"], []], [["topic", "Hask", "20042927"], []], [["topic", "\u8f6c\u57fa\u56e0\u778e\u626f", "20042898"], []], [["topic", "\u4e66\u7c4d\u6539\u7f16\u7535\u89c6\u5267", "20042902"], []], [["topic", "\u79d1\u5b66\u6559", "20042892"], []], [["topic", "\u8f6c\u57fa\u56e0\u653f\u7b56", "20042896"], []], [["load", "\u52a0\u8f7d\u66f4\u591a", "20042896", "19776751"], []]]], "r": 0}
+*_*_*_*_*_*_*_*_*_
+getlist:set()
+*_*_*_*_*_*_*_*_*_*_
+posturl:https://www.zhihu.com/topic/19776749/organize/entire?child=20042896&parent=19776751
+html:{"msg": [["topic", "\u300c\u672a\u5f52\u7c7b\u300d\u8bdd\u9898", "19776751"], [[["topic", "\u5efa\u7b51\u73af\u5883\u8bbe\u8ba1", "20042918"], []], [["topic", "\u8f6c\u57fa\u56e0\u5b66\u672f", "20042907"], []], [["topic", "\u8f6c\u57fa\u56e0\u6c34\u519b", "20042911"], []], [["topic", "\u6c47\u4ed8", "19669489"], []], [["topic", "\u6258\u6536", "19669494"], []], [["topic", "\u9886\u5bfc\u5e72\u90e8", "19669506"], []], [["topic", "\u867e\u7c73 Loop", "19669509"], []], [["topic", "Loop", "19669507"], []], [["topic", "\u8fdb\u51fa\u53e3\u4e13\u5458", "19761408"], []], [["topic", "\u63a2\u6208\uff08\u97f3\u4e50\uff09", "19761423"], []], [["load", "\u52a0\u8f7d\u66f4\u591a", "19761423", "19776751"], []]]], "r": 0}
+*_*_*_*_*_*_*_*_*_
+getlist:set()
+*_*_*_*_*_*_*_*_*_*_
+posturl:https://www.zhihu.com/topic/19776749/organize/entire?child=19761423&parent=19776751
+html:{"msg": [["topic", "\u300c\u672a\u5f52\u7c7b\u300d\u8bdd\u9898", "19776751"], [[["topic", "\u6dd8\u5b9d\u53cc\u5341\u4e00", "19761422"], []], [["topic", "\u65b0\u5174\u5b97\u6559", "20004540"], []], [["topic", "\u6c99\u8336\u9171", "20059176"], []], [["topic", "\u201c\u7cbe\u82f1\u201d\u7684\u72c2\u6b22", "20059189"], []], [["topic", "\u5b66\u79d1\u53f2", "19968556"], []], [["topic", "iOS7.1", "19968559"], []], [["topic", "\u5468\u4e00\u89c1", "19968547"], []], [["topic", "\u6b27\u7f8e\u5962\u534e\u5973\u88c5", "19968541"], []], [["topic", "\u7d2b\u5149\u62fc\u97f3", "19591644"], []], [["topic", "\u7269\u79cd\u8fc1\u5f99", "20059178"], []], [["load", "\u52a0\u8f7d\u66f4\u591a", "20059178", "19776751"], []]]], "r": 0}
+*_*_*_*_*_*_*_*_*_
+getlist:set()
+*_*_*_*_*_*_*_*_*_*_
+posturl:https://www.zhihu.com/topic/19776749/organize/entire?child=20059178&parent=19776751
+html:{"msg": [["topic", "\u300c\u672a\u5f52\u7c7b\u300d\u8bdd\u9898", "19776751"], [[["topic", "\u793e\u4ea4\u5e7f\u544a", "19662201"], []], [["topic", "\u542c\u8bf4\u8bfb\u5199", "20057799"], []], [["topic", "\u7f51\u7edc\u95ee\u653f", "19662190"], []], [["topic", "\u6076\u8da3\u5473", "19591654"], []], [["topic", "\u4e1c\u4e9a\u5c40\u52bf", "19662211"], []], [["topic", "\u5b89\u5353\u4f53\u9a8c", "19885165"], []], [["topic", "\u9f50\u5965\u8d5b\u65af\u5e93", "20059193"], []], [["topic", "\u5fc3\u667a", "19560570"], []], [["topic", "\u9762\u5305\u5e97", "19591664"], []], [["topic", "UCDChina", "19560562"], []], [["load", "\u52a0\u8f7d\u66f4\u591a", "19560562", "19776751"], []]]], "r": 0}
+*_*_*_*_*_*_*_*_*_
+getlist:set()
+*_*_*_*_*_*_*_*_*_*_
+posturl:https://www.zhihu.com/topic/19776749/organize/entire?child=19560562&parent=19776751
+html:{"msg": [["topic", "\u300c\u672a\u5f52\u7c7b\u300d\u8bdd\u9898", "19776751"], [[["topic", "\u5409\u5c14\u83ab.\u5fb7\u7f57.\u6258\u5c14", "20057787"], []], [["topic", "\u53f3\u8111", "19676345"], []], [["topic", "\u77ed\u65f6\u95f4", "19673970"], []], [["topic", "\u4ebf\u8d5e\u666e", "19793706"], []], [["topic", "\u94c1\u9053\u90e8\u8ba2\u7968", "19793705"], []], [["topic", "\u6dcb\u5df4\u7ed3", "19670128"], []], [["topic", "\u7f51\u8d39", "19670144"], []], [["topic", "\u7f51\u7edc\u6587\u5e93", "19793684"], []], [["topic", "\u70e4\u4e32", "19644359"], []], [["topic", "\u624b\u673a\u6545\u969c", "19592667"], []], [["load", "\u52a0\u8f7d\u66f4\u591a", "19592667", "19776751"], []]]], "r": 0}
+*_*_*_*_*_*_*_*_*_
+getlist:set()
+*_*_*_*_*_*_*_*_*_*_
+posturl:https://www.zhihu.com/topic/19776749/organize/entire?child=19592667&parent=19776751
+html:{"msg": [["topic", "\u300c\u672a\u5f52\u7c7b\u300d\u8bdd\u9898", "19776751"], [[["topic", "\u7fa4\u53d1\u77ed\u4fe1", "19592671"], []], [["topic", "\u62d6\u6b20\u5de5\u8d44", "19592658"], []], [["topic", "\u4e0a\u81ea\u4e60", "19862290"], []], [["topic", "\u62a4\u80a4\u7684", "19862293"], []], [["topic", "OUAT", "19810995"], []], [["topic", "Flash\u7a0b\u5e8f\u5f00\u53d1", "19762421"], []], [["topic", "\u6d41\u901a", "19597658"], []], [["topic", "\u8865\u950c", "19762732"], []], [["topic", "\u5c0f\u578b\u73b0\u573a", "20056815"], []], [["topic", "\u5a01\u6151", "20056827"], []], [["load", "\u52a0\u8f7d\u66f4\u591a", "20056827", "19776751"], []]]], "r": 0}
+*_*_*_*_*_*_*_*_*_
+getlist:set()
+*_*_*_*_*_*_*_*_*_*_
+posturl:https://www.zhihu.com/topic/19776749/organize/entire?child=20056827&parent=19776751
+html:
+*_*_*_*_*_*_*_*_*_
+getlist:set()
+*_*_*_*_*_*_*_*_*_*_
