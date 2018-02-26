@@ -5,8 +5,6 @@ import re
 from bs4 import  BeautifulSoup
 agent = 'Mozilla/5.0 (Windows NT 5.1; rv:33.0) Gecko/20100101 Firefox/33.0'
 headers = {
-    #"Host": "g.e-hentai.org",
-    #"Referer": "http://g.e-hentai.org/",
     'User-Agent': agent
 }
 def get(url):
@@ -65,12 +63,9 @@ def pushmsg(t,url):
     cursor.close()
     conn.close()
     print("完成写入")
-# url="http://g.e-hentai.org/g/975929/f2eba87d5e/"
-# t=get("http://g.e-hentai.org/g/975929/f2eba87d5e/")
-# push(t,url)
 def upload(a):
     for i in range(1,a,1):
-        url="http://g.e-hentai.org/?page="+str(i)+"&f_doujinshi=on&f_manga=on&f_artistcg=on&f_gamecg=on&f_western=on&f_non-h=on&f_imageset=on&f_cosplay=on&f_asianporn=on&f_misc=on&f_search=%E6%B1%89%E5%8C%96&f_apply=Apply+Filter"
+        url="http://g.aaaaaaaaaaaaaaa.org/?page="+str(i)+"&f_doujinshi=on&f_manga=on&f_artistcg=on&f_gamecg=on&f_western=on&f_non-h=on&f_imageset=on&f_cosplay=on&f_asianporn=on&f_misc=on&f_search=%E6%B1%89%E5%8C%96&f_apply=Apply+Filter"
         t=requests.get(url, headers=headers)
         soup=BeautifulSoup(t.text.encode('utf-8'),'lxml')
         try:
